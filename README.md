@@ -6,18 +6,18 @@ Projektna naloga se bo ukvarjala z analizo spletne glasbene lestvice [radia KBS]
 
 ## Katere podatke bom zajel?
 
-*naslov pesmi
-*zaporedno število tedna, ko se pesem nahaja na lestvici, ter sprememba glede na prejšnji teden
-*ime izvajalca in njegov tip (skupina oz. solo pevec/ka)
-*v primeru, ko je izvajalec skupina, tudi število članov
-*agencija, pri kateri se nahaja izvajalec
-*datum debitiranja
-*biografija
-*diskografija
+* naslov pesmi
+* zaporedno število tedna, ko se pesem nahaja na lestvici, ter sprememba glede na prejšnji teden
+* ime izvajalca in njegov tip (skupina oz. solo pevec/ka)
+* v primeru, ko je izvajalec skupina, tudi število članov
+* agencija, pri kateri se nahaja izvajalec
+* datum debitiranja
+* biografija
+* diskografija
 
 ## Hipoteze
 
-*Koliko časa je po navadi minilo, odkar so izvajalci na lestvici debitirali? Ali imajo res vedno prednost mlajši?
-*Kdo prevladuje na lestvici, soloisti ali skupine?
-*Koliko članov imajo skupine v povprečju?
-*Ali res prevladujejo izvajalci, ki pripadajo eni izmed top 3 agencij (SM, JYP in YG)?
+* Koliko časa je po navadi minilo, odkar so izvajalci na lestvici debitirali? Ali imajo res vedno prednost mlajši?
+* Kdo prevladuje na lestvici, soloisti ali skupine?
+* Koliko članov imajo skupine v povprečju?
+* Ali res prevladujejo izvajalci, ki pripadajo eni izmed top 3 agencij (SM, JYP in YG)?
