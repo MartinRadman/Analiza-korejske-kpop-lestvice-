@@ -1,0 +1,3122 @@
+[
+    {
+        "mesto": 1,
+        "naslov": "Spark",
+        "sifra_umetnika": 361999,
+        "ime_umetnika": "Taeyeon"
+    },
+    {
+        "mesto": 2,
+        "naslov": "Follow",
+        "sifra_umetnika": 351688,
+        "ime_umetnika": "Monsta X"
+    },
+    {
+        "mesto": 3,
+        "naslov": "How can I love the heartbreak, you`re the one I love",
+        "sifra_umetnika": 372941,
+        "ime_umetnika": "AKMU"
+    },
+    {
+        "mesto": 4,
+        "naslov": "Another Love",
+        "sifra_umetnika": 367651,
+        "ime_umetnika": "Song Ha-ye"
+    },
+    {
+        "mesto": 5,
+        "naslov": "I&#039;m a little drunk (Prod. 2soo)",
+        "sifra_umetnika": 364963,
+        "ime_umetnika": "Lim Jae-hyun"
+    },
+    {
+        "mesto": 6,
+        "naslov": "Feel Special",
+        "sifra_umetnika": 364940,
+        "ime_umetnika": "TWICE"
+    },
+    {
+        "mesto": 7,
+        "naslov": "Workaholic",
+        "sifra_umetnika": 239348,
+        "ime_umetnika": "Bolbbalgan4 (Bolbbalgan Sa-chun-gi)"
+    },
+    {
+        "mesto": 8,
+        "naslov": "LOVE ME",
+        "sifra_umetnika": 364146,
+        "ime_umetnika": "NU&rsquo;EST"
+    },
+    {
+        "mesto": 9,
+        "naslov": "I Still love you a lot",
+        "sifra_umetnika": 373333,
+        "ime_umetnika": "Jeon Sang-keun "
+    },
+    {
+        "mesto": 10,
+        "naslov": "SOSO",
+        "sifra_umetnika": 355065,
+        "ime_umetnika": "WINNER"
+    },
+    {
+        "mesto": 1,
+        "naslov": "Spark",
+        "sifra_umetnika": 361999,
+        "ime_umetnika": "Taeyeon"
+    },
+    {
+        "mesto": 2,
+        "naslov": "Follow",
+        "sifra_umetnika": 351688,
+        "ime_umetnika": "Monsta X"
+    },
+    {
+        "mesto": 3,
+        "naslov": "How can I love the heartbreak, you`re the one I love",
+        "sifra_umetnika": 372941,
+        "ime_umetnika": "AKMU"
+    },
+    {
+        "mesto": 4,
+        "naslov": "Another Love",
+        "sifra_umetnika": 367651,
+        "ime_umetnika": "Song Ha-ye"
+    },
+    {
+        "mesto": 5,
+        "naslov": "I&#039;m a little drunk (Prod. 2soo)",
+        "sifra_umetnika": 364963,
+        "ime_umetnika": "Lim Jae-hyun"
+    },
+    {
+        "mesto": 6,
+        "naslov": "Feel Special",
+        "sifra_umetnika": 364940,
+        "ime_umetnika": "TWICE"
+    },
+    {
+        "mesto": 7,
+        "naslov": "Workaholic",
+        "sifra_umetnika": 239348,
+        "ime_umetnika": "Bolbbalgan4 (Bolbbalgan Sa-chun-gi)"
+    },
+    {
+        "mesto": 8,
+        "naslov": "LOVE ME",
+        "sifra_umetnika": 364146,
+        "ime_umetnika": "NU&rsquo;EST"
+    },
+    {
+        "mesto": 9,
+        "naslov": "I Still love you a lot",
+        "sifra_umetnika": 373333,
+        "ime_umetnika": "Jeon Sang-keun "
+    },
+    {
+        "mesto": 10,
+        "naslov": "SOSO",
+        "sifra_umetnika": 355065,
+        "ime_umetnika": "WINNER"
+    },
+    {
+        "mesto": 1,
+        "naslov": "Spark",
+        "sifra_umetnika": 361999,
+        "ime_umetnika": "Taeyeon"
+    },
+    {
+        "mesto": 2,
+        "naslov": "Follow",
+        "sifra_umetnika": 351688,
+        "ime_umetnika": "Monsta X"
+    },
+    {
+        "mesto": 3,
+        "naslov": "How can I love the heartbreak, you`re the one I love",
+        "sifra_umetnika": 372941,
+        "ime_umetnika": "AKMU"
+    },
+    {
+        "mesto": 4,
+        "naslov": "Another Love",
+        "sifra_umetnika": 367651,
+        "ime_umetnika": "Song Ha-ye"
+    },
+    {
+        "mesto": 5,
+        "naslov": "I&#039;m a little drunk (Prod. 2soo)",
+        "sifra_umetnika": 364963,
+        "ime_umetnika": "Lim Jae-hyun"
+    },
+    {
+        "mesto": 6,
+        "naslov": "Feel Special",
+        "sifra_umetnika": 364940,
+        "ime_umetnika": "TWICE"
+    },
+    {
+        "mesto": 7,
+        "naslov": "Workaholic",
+        "sifra_umetnika": 239348,
+        "ime_umetnika": "Bolbbalgan4 (Bolbbalgan Sa-chun-gi)"
+    },
+    {
+        "mesto": 8,
+        "naslov": "LOVE ME",
+        "sifra_umetnika": 364146,
+        "ime_umetnika": "NU&rsquo;EST"
+    },
+    {
+        "mesto": 9,
+        "naslov": "I Still love you a lot",
+        "sifra_umetnika": 373333,
+        "ime_umetnika": "Jeon Sang-keun "
+    },
+    {
+        "mesto": 10,
+        "naslov": "SOSO",
+        "sifra_umetnika": 355065,
+        "ime_umetnika": "WINNER"
+    },
+    {
+        "mesto": 1,
+        "naslov": "Spark",
+        "sifra_umetnika": 361999,
+        "ime_umetnika": "Taeyeon"
+    },
+    {
+        "mesto": 2,
+        "naslov": "Follow",
+        "sifra_umetnika": 351688,
+        "ime_umetnika": "Monsta X"
+    },
+    {
+        "mesto": 3,
+        "naslov": "How can I love the heartbreak, you`re the one I love",
+        "sifra_umetnika": 372941,
+        "ime_umetnika": "AKMU"
+    },
+    {
+        "mesto": 4,
+        "naslov": "Another Love",
+        "sifra_umetnika": 367651,
+        "ime_umetnika": "Song Ha-ye"
+    },
+    {
+        "mesto": 5,
+        "naslov": "I&#039;m a little drunk (Prod. 2soo)",
+        "sifra_umetnika": 364963,
+        "ime_umetnika": "Lim Jae-hyun"
+    },
+    {
+        "mesto": 6,
+        "naslov": "Feel Special",
+        "sifra_umetnika": 364940,
+        "ime_umetnika": "TWICE"
+    },
+    {
+        "mesto": 7,
+        "naslov": "Workaholic",
+        "sifra_umetnika": 239348,
+        "ime_umetnika": "Bolbbalgan4 (Bolbbalgan Sa-chun-gi)"
+    },
+    {
+        "mesto": 8,
+        "naslov": "LOVE ME",
+        "sifra_umetnika": 364146,
+        "ime_umetnika": "NU&rsquo;EST"
+    },
+    {
+        "mesto": 9,
+        "naslov": "I Still love you a lot",
+        "sifra_umetnika": 373333,
+        "ime_umetnika": "Jeon Sang-keun "
+    },
+    {
+        "mesto": 10,
+        "naslov": "SOSO",
+        "sifra_umetnika": 355065,
+        "ime_umetnika": "WINNER"
+    },
+    {
+        "mesto": 1,
+        "naslov": "Spark",
+        "sifra_umetnika": 361999,
+        "ime_umetnika": "Taeyeon"
+    },
+    {
+        "mesto": 2,
+        "naslov": "Follow",
+        "sifra_umetnika": 351688,
+        "ime_umetnika": "Monsta X"
+    },
+    {
+        "mesto": 3,
+        "naslov": "How can I love the heartbreak, you`re the one I love",
+        "sifra_umetnika": 372941,
+        "ime_umetnika": "AKMU"
+    },
+    {
+        "mesto": 4,
+        "naslov": "Another Love",
+        "sifra_umetnika": 367651,
+        "ime_umetnika": "Song Ha-ye"
+    },
+    {
+        "mesto": 5,
+        "naslov": "I&#039;m a little drunk (Prod. 2soo)",
+        "sifra_umetnika": 364963,
+        "ime_umetnika": "Lim Jae-hyun"
+    },
+    {
+        "mesto": 6,
+        "naslov": "Feel Special",
+        "sifra_umetnika": 364940,
+        "ime_umetnika": "TWICE"
+    },
+    {
+        "mesto": 7,
+        "naslov": "Workaholic",
+        "sifra_umetnika": 239348,
+        "ime_umetnika": "Bolbbalgan4 (Bolbbalgan Sa-chun-gi)"
+    },
+    {
+        "mesto": 8,
+        "naslov": "LOVE ME",
+        "sifra_umetnika": 364146,
+        "ime_umetnika": "NU&rsquo;EST"
+    },
+    {
+        "mesto": 9,
+        "naslov": "I Still love you a lot",
+        "sifra_umetnika": 373333,
+        "ime_umetnika": "Jeon Sang-keun "
+    },
+    {
+        "mesto": 10,
+        "naslov": "SOSO",
+        "sifra_umetnika": 355065,
+        "ime_umetnika": "WINNER"
+    },
+    {
+        "mesto": 1,
+        "naslov": "Spark",
+        "sifra_umetnika": 361999,
+        "ime_umetnika": "Taeyeon"
+    },
+    {
+        "mesto": 2,
+        "naslov": "Follow",
+        "sifra_umetnika": 351688,
+        "ime_umetnika": "Monsta X"
+    },
+    {
+        "mesto": 3,
+        "naslov": "How can I love the heartbreak, you`re the one I love",
+        "sifra_umetnika": 372941,
+        "ime_umetnika": "AKMU"
+    },
+    {
+        "mesto": 4,
+        "naslov": "Another Love",
+        "sifra_umetnika": 367651,
+        "ime_umetnika": "Song Ha-ye"
+    },
+    {
+        "mesto": 5,
+        "naslov": "I&#039;m a little drunk (Prod. 2soo)",
+        "sifra_umetnika": 364963,
+        "ime_umetnika": "Lim Jae-hyun"
+    },
+    {
+        "mesto": 6,
+        "naslov": "Feel Special",
+        "sifra_umetnika": 364940,
+        "ime_umetnika": "TWICE"
+    },
+    {
+        "mesto": 7,
+        "naslov": "Workaholic",
+        "sifra_umetnika": 239348,
+        "ime_umetnika": "Bolbbalgan4 (Bolbbalgan Sa-chun-gi)"
+    },
+    {
+        "mesto": 8,
+        "naslov": "LOVE ME",
+        "sifra_umetnika": 364146,
+        "ime_umetnika": "NU&rsquo;EST"
+    },
+    {
+        "mesto": 9,
+        "naslov": "I Still love you a lot",
+        "sifra_umetnika": 373333,
+        "ime_umetnika": "Jeon Sang-keun "
+    },
+    {
+        "mesto": 10,
+        "naslov": "SOSO",
+        "sifra_umetnika": 355065,
+        "ime_umetnika": "WINNER"
+    },
+    {
+        "mesto": 1,
+        "naslov": "Spark",
+        "sifra_umetnika": 361999,
+        "ime_umetnika": "Taeyeon"
+    },
+    {
+        "mesto": 2,
+        "naslov": "Follow",
+        "sifra_umetnika": 351688,
+        "ime_umetnika": "Monsta X"
+    },
+    {
+        "mesto": 3,
+        "naslov": "How can I love the heartbreak, you`re the one I love",
+        "sifra_umetnika": 372941,
+        "ime_umetnika": "AKMU"
+    },
+    {
+        "mesto": 4,
+        "naslov": "Another Love",
+        "sifra_umetnika": 367651,
+        "ime_umetnika": "Song Ha-ye"
+    },
+    {
+        "mesto": 5,
+        "naslov": "I&#039;m a little drunk (Prod. 2soo)",
+        "sifra_umetnika": 364963,
+        "ime_umetnika": "Lim Jae-hyun"
+    },
+    {
+        "mesto": 6,
+        "naslov": "Feel Special",
+        "sifra_umetnika": 364940,
+        "ime_umetnika": "TWICE"
+    },
+    {
+        "mesto": 7,
+        "naslov": "Workaholic",
+        "sifra_umetnika": 239348,
+        "ime_umetnika": "Bolbbalgan4 (Bolbbalgan Sa-chun-gi)"
+    },
+    {
+        "mesto": 8,
+        "naslov": "LOVE ME",
+        "sifra_umetnika": 364146,
+        "ime_umetnika": "NU&rsquo;EST"
+    },
+    {
+        "mesto": 9,
+        "naslov": "I Still love you a lot",
+        "sifra_umetnika": 373333,
+        "ime_umetnika": "Jeon Sang-keun "
+    },
+    {
+        "mesto": 10,
+        "naslov": "SOSO",
+        "sifra_umetnika": 355065,
+        "ime_umetnika": "WINNER"
+    },
+    {
+        "mesto": 1,
+        "naslov": "Spark",
+        "sifra_umetnika": 361999,
+        "ime_umetnika": "Taeyeon"
+    },
+    {
+        "mesto": 2,
+        "naslov": "Follow",
+        "sifra_umetnika": 351688,
+        "ime_umetnika": "Monsta X"
+    },
+    {
+        "mesto": 3,
+        "naslov": "How can I love the heartbreak, you`re the one I love",
+        "sifra_umetnika": 372941,
+        "ime_umetnika": "AKMU"
+    },
+    {
+        "mesto": 4,
+        "naslov": "Another Love",
+        "sifra_umetnika": 367651,
+        "ime_umetnika": "Song Ha-ye"
+    },
+    {
+        "mesto": 5,
+        "naslov": "I&#039;m a little drunk (Prod. 2soo)",
+        "sifra_umetnika": 364963,
+        "ime_umetnika": "Lim Jae-hyun"
+    },
+    {
+        "mesto": 6,
+        "naslov": "Feel Special",
+        "sifra_umetnika": 364940,
+        "ime_umetnika": "TWICE"
+    },
+    {
+        "mesto": 7,
+        "naslov": "Workaholic",
+        "sifra_umetnika": 239348,
+        "ime_umetnika": "Bolbbalgan4 (Bolbbalgan Sa-chun-gi)"
+    },
+    {
+        "mesto": 8,
+        "naslov": "LOVE ME",
+        "sifra_umetnika": 364146,
+        "ime_umetnika": "NU&rsquo;EST"
+    },
+    {
+        "mesto": 9,
+        "naslov": "I Still love you a lot",
+        "sifra_umetnika": 373333,
+        "ime_umetnika": "Jeon Sang-keun "
+    },
+    {
+        "mesto": 10,
+        "naslov": "SOSO",
+        "sifra_umetnika": 355065,
+        "ime_umetnika": "WINNER"
+    },
+    {
+        "mesto": 1,
+        "naslov": "Spark",
+        "sifra_umetnika": 361999,
+        "ime_umetnika": "Taeyeon"
+    },
+    {
+        "mesto": 2,
+        "naslov": "Follow",
+        "sifra_umetnika": 351688,
+        "ime_umetnika": "Monsta X"
+    },
+    {
+        "mesto": 3,
+        "naslov": "How can I love the heartbreak, you`re the one I love",
+        "sifra_umetnika": 372941,
+        "ime_umetnika": "AKMU"
+    },
+    {
+        "mesto": 4,
+        "naslov": "Another Love",
+        "sifra_umetnika": 367651,
+        "ime_umetnika": "Song Ha-ye"
+    },
+    {
+        "mesto": 5,
+        "naslov": "I&#039;m a little drunk (Prod. 2soo)",
+        "sifra_umetnika": 364963,
+        "ime_umetnika": "Lim Jae-hyun"
+    },
+    {
+        "mesto": 6,
+        "naslov": "Feel Special",
+        "sifra_umetnika": 364940,
+        "ime_umetnika": "TWICE"
+    },
+    {
+        "mesto": 7,
+        "naslov": "Workaholic",
+        "sifra_umetnika": 239348,
+        "ime_umetnika": "Bolbbalgan4 (Bolbbalgan Sa-chun-gi)"
+    },
+    {
+        "mesto": 8,
+        "naslov": "LOVE ME",
+        "sifra_umetnika": 364146,
+        "ime_umetnika": "NU&rsquo;EST"
+    },
+    {
+        "mesto": 9,
+        "naslov": "I Still love you a lot",
+        "sifra_umetnika": 373333,
+        "ime_umetnika": "Jeon Sang-keun "
+    },
+    {
+        "mesto": 10,
+        "naslov": "SOSO",
+        "sifra_umetnika": 355065,
+        "ime_umetnika": "WINNER"
+    },
+    {
+        "mesto": 1,
+        "naslov": "Spark",
+        "sifra_umetnika": 361999,
+        "ime_umetnika": "Taeyeon"
+    },
+    {
+        "mesto": 2,
+        "naslov": "Follow",
+        "sifra_umetnika": 351688,
+        "ime_umetnika": "Monsta X"
+    },
+    {
+        "mesto": 3,
+        "naslov": "How can I love the heartbreak, you`re the one I love",
+        "sifra_umetnika": 372941,
+        "ime_umetnika": "AKMU"
+    },
+    {
+        "mesto": 4,
+        "naslov": "Another Love",
+        "sifra_umetnika": 367651,
+        "ime_umetnika": "Song Ha-ye"
+    },
+    {
+        "mesto": 5,
+        "naslov": "I&#039;m a little drunk (Prod. 2soo)",
+        "sifra_umetnika": 364963,
+        "ime_umetnika": "Lim Jae-hyun"
+    },
+    {
+        "mesto": 6,
+        "naslov": "Feel Special",
+        "sifra_umetnika": 364940,
+        "ime_umetnika": "TWICE"
+    },
+    {
+        "mesto": 7,
+        "naslov": "Workaholic",
+        "sifra_umetnika": 239348,
+        "ime_umetnika": "Bolbbalgan4 (Bolbbalgan Sa-chun-gi)"
+    },
+    {
+        "mesto": 8,
+        "naslov": "LOVE ME",
+        "sifra_umetnika": 364146,
+        "ime_umetnika": "NU&rsquo;EST"
+    },
+    {
+        "mesto": 9,
+        "naslov": "I Still love you a lot",
+        "sifra_umetnika": 373333,
+        "ime_umetnika": "Jeon Sang-keun "
+    },
+    {
+        "mesto": 10,
+        "naslov": "SOSO",
+        "sifra_umetnika": 355065,
+        "ime_umetnika": "WINNER"
+    },
+    {
+        "mesto": 1,
+        "naslov": "Spark",
+        "sifra_umetnika": 361999,
+        "ime_umetnika": "Taeyeon"
+    },
+    {
+        "mesto": 2,
+        "naslov": "Follow",
+        "sifra_umetnika": 351688,
+        "ime_umetnika": "Monsta X"
+    },
+    {
+        "mesto": 3,
+        "naslov": "How can I love the heartbreak, you`re the one I love",
+        "sifra_umetnika": 372941,
+        "ime_umetnika": "AKMU"
+    },
+    {
+        "mesto": 4,
+        "naslov": "Another Love",
+        "sifra_umetnika": 367651,
+        "ime_umetnika": "Song Ha-ye"
+    },
+    {
+        "mesto": 5,
+        "naslov": "I&#039;m a little drunk (Prod. 2soo)",
+        "sifra_umetnika": 364963,
+        "ime_umetnika": "Lim Jae-hyun"
+    },
+    {
+        "mesto": 6,
+        "naslov": "Feel Special",
+        "sifra_umetnika": 364940,
+        "ime_umetnika": "TWICE"
+    },
+    {
+        "mesto": 7,
+        "naslov": "Workaholic",
+        "sifra_umetnika": 239348,
+        "ime_umetnika": "Bolbbalgan4 (Bolbbalgan Sa-chun-gi)"
+    },
+    {
+        "mesto": 8,
+        "naslov": "LOVE ME",
+        "sifra_umetnika": 364146,
+        "ime_umetnika": "NU&rsquo;EST"
+    },
+    {
+        "mesto": 9,
+        "naslov": "I Still love you a lot",
+        "sifra_umetnika": 373333,
+        "ime_umetnika": "Jeon Sang-keun "
+    },
+    {
+        "mesto": 10,
+        "naslov": "SOSO",
+        "sifra_umetnika": 355065,
+        "ime_umetnika": "WINNER"
+    },
+    {
+        "mesto": 1,
+        "naslov": "Spark",
+        "sifra_umetnika": 361999,
+        "ime_umetnika": "Taeyeon"
+    },
+    {
+        "mesto": 2,
+        "naslov": "Follow",
+        "sifra_umetnika": 351688,
+        "ime_umetnika": "Monsta X"
+    },
+    {
+        "mesto": 3,
+        "naslov": "How can I love the heartbreak, you`re the one I love",
+        "sifra_umetnika": 372941,
+        "ime_umetnika": "AKMU"
+    },
+    {
+        "mesto": 4,
+        "naslov": "Another Love",
+        "sifra_umetnika": 367651,
+        "ime_umetnika": "Song Ha-ye"
+    },
+    {
+        "mesto": 5,
+        "naslov": "I&#039;m a little drunk (Prod. 2soo)",
+        "sifra_umetnika": 364963,
+        "ime_umetnika": "Lim Jae-hyun"
+    },
+    {
+        "mesto": 6,
+        "naslov": "Feel Special",
+        "sifra_umetnika": 364940,
+        "ime_umetnika": "TWICE"
+    },
+    {
+        "mesto": 7,
+        "naslov": "Workaholic",
+        "sifra_umetnika": 239348,
+        "ime_umetnika": "Bolbbalgan4 (Bolbbalgan Sa-chun-gi)"
+    },
+    {
+        "mesto": 8,
+        "naslov": "LOVE ME",
+        "sifra_umetnika": 364146,
+        "ime_umetnika": "NU&rsquo;EST"
+    },
+    {
+        "mesto": 9,
+        "naslov": "I Still love you a lot",
+        "sifra_umetnika": 373333,
+        "ime_umetnika": "Jeon Sang-keun "
+    },
+    {
+        "mesto": 10,
+        "naslov": "SOSO",
+        "sifra_umetnika": 355065,
+        "ime_umetnika": "WINNER"
+    },
+    {
+        "mesto": 1,
+        "naslov": "Spark",
+        "sifra_umetnika": 361999,
+        "ime_umetnika": "Taeyeon"
+    },
+    {
+        "mesto": 2,
+        "naslov": "Follow",
+        "sifra_umetnika": 351688,
+        "ime_umetnika": "Monsta X"
+    },
+    {
+        "mesto": 3,
+        "naslov": "How can I love the heartbreak, you`re the one I love",
+        "sifra_umetnika": 372941,
+        "ime_umetnika": "AKMU"
+    },
+    {
+        "mesto": 4,
+        "naslov": "Another Love",
+        "sifra_umetnika": 367651,
+        "ime_umetnika": "Song Ha-ye"
+    },
+    {
+        "mesto": 5,
+        "naslov": "I&#039;m a little drunk (Prod. 2soo)",
+        "sifra_umetnika": 364963,
+        "ime_umetnika": "Lim Jae-hyun"
+    },
+    {
+        "mesto": 6,
+        "naslov": "Feel Special",
+        "sifra_umetnika": 364940,
+        "ime_umetnika": "TWICE"
+    },
+    {
+        "mesto": 7,
+        "naslov": "Workaholic",
+        "sifra_umetnika": 239348,
+        "ime_umetnika": "Bolbbalgan4 (Bolbbalgan Sa-chun-gi)"
+    },
+    {
+        "mesto": 8,
+        "naslov": "LOVE ME",
+        "sifra_umetnika": 364146,
+        "ime_umetnika": "NU&rsquo;EST"
+    },
+    {
+        "mesto": 9,
+        "naslov": "I Still love you a lot",
+        "sifra_umetnika": 373333,
+        "ime_umetnika": "Jeon Sang-keun "
+    },
+    {
+        "mesto": 10,
+        "naslov": "SOSO",
+        "sifra_umetnika": 355065,
+        "ime_umetnika": "WINNER"
+    },
+    {
+        "mesto": 1,
+        "naslov": "Spark",
+        "sifra_umetnika": 361999,
+        "ime_umetnika": "Taeyeon"
+    },
+    {
+        "mesto": 2,
+        "naslov": "Follow",
+        "sifra_umetnika": 351688,
+        "ime_umetnika": "Monsta X"
+    },
+    {
+        "mesto": 3,
+        "naslov": "How can I love the heartbreak, you`re the one I love",
+        "sifra_umetnika": 372941,
+        "ime_umetnika": "AKMU"
+    },
+    {
+        "mesto": 4,
+        "naslov": "Another Love",
+        "sifra_umetnika": 367651,
+        "ime_umetnika": "Song Ha-ye"
+    },
+    {
+        "mesto": 5,
+        "naslov": "I&#039;m a little drunk (Prod. 2soo)",
+        "sifra_umetnika": 364963,
+        "ime_umetnika": "Lim Jae-hyun"
+    },
+    {
+        "mesto": 6,
+        "naslov": "Feel Special",
+        "sifra_umetnika": 364940,
+        "ime_umetnika": "TWICE"
+    },
+    {
+        "mesto": 7,
+        "naslov": "Workaholic",
+        "sifra_umetnika": 239348,
+        "ime_umetnika": "Bolbbalgan4 (Bolbbalgan Sa-chun-gi)"
+    },
+    {
+        "mesto": 8,
+        "naslov": "LOVE ME",
+        "sifra_umetnika": 364146,
+        "ime_umetnika": "NU&rsquo;EST"
+    },
+    {
+        "mesto": 9,
+        "naslov": "I Still love you a lot",
+        "sifra_umetnika": 373333,
+        "ime_umetnika": "Jeon Sang-keun "
+    },
+    {
+        "mesto": 10,
+        "naslov": "SOSO",
+        "sifra_umetnika": 355065,
+        "ime_umetnika": "WINNER"
+    },
+    {
+        "mesto": 1,
+        "naslov": "Spark",
+        "sifra_umetnika": 361999,
+        "ime_umetnika": "Taeyeon"
+    },
+    {
+        "mesto": 2,
+        "naslov": "Follow",
+        "sifra_umetnika": 351688,
+        "ime_umetnika": "Monsta X"
+    },
+    {
+        "mesto": 3,
+        "naslov": "How can I love the heartbreak, you`re the one I love",
+        "sifra_umetnika": 372941,
+        "ime_umetnika": "AKMU"
+    },
+    {
+        "mesto": 4,
+        "naslov": "Another Love",
+        "sifra_umetnika": 367651,
+        "ime_umetnika": "Song Ha-ye"
+    },
+    {
+        "mesto": 5,
+        "naslov": "I&#039;m a little drunk (Prod. 2soo)",
+        "sifra_umetnika": 364963,
+        "ime_umetnika": "Lim Jae-hyun"
+    },
+    {
+        "mesto": 6,
+        "naslov": "Feel Special",
+        "sifra_umetnika": 364940,
+        "ime_umetnika": "TWICE"
+    },
+    {
+        "mesto": 7,
+        "naslov": "Workaholic",
+        "sifra_umetnika": 239348,
+        "ime_umetnika": "Bolbbalgan4 (Bolbbalgan Sa-chun-gi)"
+    },
+    {
+        "mesto": 8,
+        "naslov": "LOVE ME",
+        "sifra_umetnika": 364146,
+        "ime_umetnika": "NU&rsquo;EST"
+    },
+    {
+        "mesto": 9,
+        "naslov": "I Still love you a lot",
+        "sifra_umetnika": 373333,
+        "ime_umetnika": "Jeon Sang-keun "
+    },
+    {
+        "mesto": 10,
+        "naslov": "SOSO",
+        "sifra_umetnika": 355065,
+        "ime_umetnika": "WINNER"
+    },
+    {
+        "mesto": 1,
+        "naslov": "Spark",
+        "sifra_umetnika": 361999,
+        "ime_umetnika": "Taeyeon"
+    },
+    {
+        "mesto": 2,
+        "naslov": "Follow",
+        "sifra_umetnika": 351688,
+        "ime_umetnika": "Monsta X"
+    },
+    {
+        "mesto": 3,
+        "naslov": "How can I love the heartbreak, you`re the one I love",
+        "sifra_umetnika": 372941,
+        "ime_umetnika": "AKMU"
+    },
+    {
+        "mesto": 4,
+        "naslov": "Another Love",
+        "sifra_umetnika": 367651,
+        "ime_umetnika": "Song Ha-ye"
+    },
+    {
+        "mesto": 5,
+        "naslov": "I&#039;m a little drunk (Prod. 2soo)",
+        "sifra_umetnika": 364963,
+        "ime_umetnika": "Lim Jae-hyun"
+    },
+    {
+        "mesto": 6,
+        "naslov": "Feel Special",
+        "sifra_umetnika": 364940,
+        "ime_umetnika": "TWICE"
+    },
+    {
+        "mesto": 7,
+        "naslov": "Workaholic",
+        "sifra_umetnika": 239348,
+        "ime_umetnika": "Bolbbalgan4 (Bolbbalgan Sa-chun-gi)"
+    },
+    {
+        "mesto": 8,
+        "naslov": "LOVE ME",
+        "sifra_umetnika": 364146,
+        "ime_umetnika": "NU&rsquo;EST"
+    },
+    {
+        "mesto": 9,
+        "naslov": "I Still love you a lot",
+        "sifra_umetnika": 373333,
+        "ime_umetnika": "Jeon Sang-keun "
+    },
+    {
+        "mesto": 10,
+        "naslov": "SOSO",
+        "sifra_umetnika": 355065,
+        "ime_umetnika": "WINNER"
+    },
+    {
+        "mesto": 1,
+        "naslov": "Spark",
+        "sifra_umetnika": 361999,
+        "ime_umetnika": "Taeyeon"
+    },
+    {
+        "mesto": 2,
+        "naslov": "Follow",
+        "sifra_umetnika": 351688,
+        "ime_umetnika": "Monsta X"
+    },
+    {
+        "mesto": 3,
+        "naslov": "How can I love the heartbreak, you`re the one I love",
+        "sifra_umetnika": 372941,
+        "ime_umetnika": "AKMU"
+    },
+    {
+        "mesto": 4,
+        "naslov": "Another Love",
+        "sifra_umetnika": 367651,
+        "ime_umetnika": "Song Ha-ye"
+    },
+    {
+        "mesto": 5,
+        "naslov": "I&#039;m a little drunk (Prod. 2soo)",
+        "sifra_umetnika": 364963,
+        "ime_umetnika": "Lim Jae-hyun"
+    },
+    {
+        "mesto": 6,
+        "naslov": "Feel Special",
+        "sifra_umetnika": 364940,
+        "ime_umetnika": "TWICE"
+    },
+    {
+        "mesto": 7,
+        "naslov": "Workaholic",
+        "sifra_umetnika": 239348,
+        "ime_umetnika": "Bolbbalgan4 (Bolbbalgan Sa-chun-gi)"
+    },
+    {
+        "mesto": 8,
+        "naslov": "LOVE ME",
+        "sifra_umetnika": 364146,
+        "ime_umetnika": "NU&rsquo;EST"
+    },
+    {
+        "mesto": 9,
+        "naslov": "I Still love you a lot",
+        "sifra_umetnika": 373333,
+        "ime_umetnika": "Jeon Sang-keun "
+    },
+    {
+        "mesto": 10,
+        "naslov": "SOSO",
+        "sifra_umetnika": 355065,
+        "ime_umetnika": "WINNER"
+    },
+    {
+        "mesto": 1,
+        "naslov": "Spark",
+        "sifra_umetnika": 361999,
+        "ime_umetnika": "Taeyeon"
+    },
+    {
+        "mesto": 2,
+        "naslov": "Follow",
+        "sifra_umetnika": 351688,
+        "ime_umetnika": "Monsta X"
+    },
+    {
+        "mesto": 3,
+        "naslov": "How can I love the heartbreak, you`re the one I love",
+        "sifra_umetnika": 372941,
+        "ime_umetnika": "AKMU"
+    },
+    {
+        "mesto": 4,
+        "naslov": "Another Love",
+        "sifra_umetnika": 367651,
+        "ime_umetnika": "Song Ha-ye"
+    },
+    {
+        "mesto": 5,
+        "naslov": "I&#039;m a little drunk (Prod. 2soo)",
+        "sifra_umetnika": 364963,
+        "ime_umetnika": "Lim Jae-hyun"
+    },
+    {
+        "mesto": 6,
+        "naslov": "Feel Special",
+        "sifra_umetnika": 364940,
+        "ime_umetnika": "TWICE"
+    },
+    {
+        "mesto": 7,
+        "naslov": "Workaholic",
+        "sifra_umetnika": 239348,
+        "ime_umetnika": "Bolbbalgan4 (Bolbbalgan Sa-chun-gi)"
+    },
+    {
+        "mesto": 8,
+        "naslov": "LOVE ME",
+        "sifra_umetnika": 364146,
+        "ime_umetnika": "NU&rsquo;EST"
+    },
+    {
+        "mesto": 9,
+        "naslov": "I Still love you a lot",
+        "sifra_umetnika": 373333,
+        "ime_umetnika": "Jeon Sang-keun "
+    },
+    {
+        "mesto": 10,
+        "naslov": "SOSO",
+        "sifra_umetnika": 355065,
+        "ime_umetnika": "WINNER"
+    },
+    {
+        "mesto": 1,
+        "naslov": "Spark",
+        "sifra_umetnika": 361999,
+        "ime_umetnika": "Taeyeon"
+    },
+    {
+        "mesto": 2,
+        "naslov": "Follow",
+        "sifra_umetnika": 351688,
+        "ime_umetnika": "Monsta X"
+    },
+    {
+        "mesto": 3,
+        "naslov": "How can I love the heartbreak, you`re the one I love",
+        "sifra_umetnika": 372941,
+        "ime_umetnika": "AKMU"
+    },
+    {
+        "mesto": 4,
+        "naslov": "Another Love",
+        "sifra_umetnika": 367651,
+        "ime_umetnika": "Song Ha-ye"
+    },
+    {
+        "mesto": 5,
+        "naslov": "I&#039;m a little drunk (Prod. 2soo)",
+        "sifra_umetnika": 364963,
+        "ime_umetnika": "Lim Jae-hyun"
+    },
+    {
+        "mesto": 6,
+        "naslov": "Feel Special",
+        "sifra_umetnika": 364940,
+        "ime_umetnika": "TWICE"
+    },
+    {
+        "mesto": 7,
+        "naslov": "Workaholic",
+        "sifra_umetnika": 239348,
+        "ime_umetnika": "Bolbbalgan4 (Bolbbalgan Sa-chun-gi)"
+    },
+    {
+        "mesto": 8,
+        "naslov": "LOVE ME",
+        "sifra_umetnika": 364146,
+        "ime_umetnika": "NU&rsquo;EST"
+    },
+    {
+        "mesto": 9,
+        "naslov": "I Still love you a lot",
+        "sifra_umetnika": 373333,
+        "ime_umetnika": "Jeon Sang-keun "
+    },
+    {
+        "mesto": 10,
+        "naslov": "SOSO",
+        "sifra_umetnika": 355065,
+        "ime_umetnika": "WINNER"
+    },
+    {
+        "mesto": 1,
+        "naslov": "Spark",
+        "sifra_umetnika": 361999,
+        "ime_umetnika": "Taeyeon"
+    },
+    {
+        "mesto": 2,
+        "naslov": "Follow",
+        "sifra_umetnika": 351688,
+        "ime_umetnika": "Monsta X"
+    },
+    {
+        "mesto": 3,
+        "naslov": "How can I love the heartbreak, you`re the one I love",
+        "sifra_umetnika": 372941,
+        "ime_umetnika": "AKMU"
+    },
+    {
+        "mesto": 4,
+        "naslov": "Another Love",
+        "sifra_umetnika": 367651,
+        "ime_umetnika": "Song Ha-ye"
+    },
+    {
+        "mesto": 5,
+        "naslov": "I&#039;m a little drunk (Prod. 2soo)",
+        "sifra_umetnika": 364963,
+        "ime_umetnika": "Lim Jae-hyun"
+    },
+    {
+        "mesto": 6,
+        "naslov": "Feel Special",
+        "sifra_umetnika": 364940,
+        "ime_umetnika": "TWICE"
+    },
+    {
+        "mesto": 7,
+        "naslov": "Workaholic",
+        "sifra_umetnika": 239348,
+        "ime_umetnika": "Bolbbalgan4 (Bolbbalgan Sa-chun-gi)"
+    },
+    {
+        "mesto": 8,
+        "naslov": "LOVE ME",
+        "sifra_umetnika": 364146,
+        "ime_umetnika": "NU&rsquo;EST"
+    },
+    {
+        "mesto": 9,
+        "naslov": "I Still love you a lot",
+        "sifra_umetnika": 373333,
+        "ime_umetnika": "Jeon Sang-keun "
+    },
+    {
+        "mesto": 10,
+        "naslov": "SOSO",
+        "sifra_umetnika": 355065,
+        "ime_umetnika": "WINNER"
+    },
+    {
+        "mesto": 1,
+        "naslov": "Spark",
+        "sifra_umetnika": 361999,
+        "ime_umetnika": "Taeyeon"
+    },
+    {
+        "mesto": 2,
+        "naslov": "Follow",
+        "sifra_umetnika": 351688,
+        "ime_umetnika": "Monsta X"
+    },
+    {
+        "mesto": 3,
+        "naslov": "How can I love the heartbreak, you`re the one I love",
+        "sifra_umetnika": 372941,
+        "ime_umetnika": "AKMU"
+    },
+    {
+        "mesto": 4,
+        "naslov": "Another Love",
+        "sifra_umetnika": 367651,
+        "ime_umetnika": "Song Ha-ye"
+    },
+    {
+        "mesto": 5,
+        "naslov": "I&#039;m a little drunk (Prod. 2soo)",
+        "sifra_umetnika": 364963,
+        "ime_umetnika": "Lim Jae-hyun"
+    },
+    {
+        "mesto": 6,
+        "naslov": "Feel Special",
+        "sifra_umetnika": 364940,
+        "ime_umetnika": "TWICE"
+    },
+    {
+        "mesto": 7,
+        "naslov": "Workaholic",
+        "sifra_umetnika": 239348,
+        "ime_umetnika": "Bolbbalgan4 (Bolbbalgan Sa-chun-gi)"
+    },
+    {
+        "mesto": 8,
+        "naslov": "LOVE ME",
+        "sifra_umetnika": 364146,
+        "ime_umetnika": "NU&rsquo;EST"
+    },
+    {
+        "mesto": 9,
+        "naslov": "I Still love you a lot",
+        "sifra_umetnika": 373333,
+        "ime_umetnika": "Jeon Sang-keun "
+    },
+    {
+        "mesto": 10,
+        "naslov": "SOSO",
+        "sifra_umetnika": 355065,
+        "ime_umetnika": "WINNER"
+    },
+    {
+        "mesto": 1,
+        "naslov": "Spark",
+        "sifra_umetnika": 361999,
+        "ime_umetnika": "Taeyeon"
+    },
+    {
+        "mesto": 2,
+        "naslov": "Follow",
+        "sifra_umetnika": 351688,
+        "ime_umetnika": "Monsta X"
+    },
+    {
+        "mesto": 3,
+        "naslov": "How can I love the heartbreak, you`re the one I love",
+        "sifra_umetnika": 372941,
+        "ime_umetnika": "AKMU"
+    },
+    {
+        "mesto": 4,
+        "naslov": "Another Love",
+        "sifra_umetnika": 367651,
+        "ime_umetnika": "Song Ha-ye"
+    },
+    {
+        "mesto": 5,
+        "naslov": "I&#039;m a little drunk (Prod. 2soo)",
+        "sifra_umetnika": 364963,
+        "ime_umetnika": "Lim Jae-hyun"
+    },
+    {
+        "mesto": 6,
+        "naslov": "Feel Special",
+        "sifra_umetnika": 364940,
+        "ime_umetnika": "TWICE"
+    },
+    {
+        "mesto": 7,
+        "naslov": "Workaholic",
+        "sifra_umetnika": 239348,
+        "ime_umetnika": "Bolbbalgan4 (Bolbbalgan Sa-chun-gi)"
+    },
+    {
+        "mesto": 8,
+        "naslov": "LOVE ME",
+        "sifra_umetnika": 364146,
+        "ime_umetnika": "NU&rsquo;EST"
+    },
+    {
+        "mesto": 9,
+        "naslov": "I Still love you a lot",
+        "sifra_umetnika": 373333,
+        "ime_umetnika": "Jeon Sang-keun "
+    },
+    {
+        "mesto": 10,
+        "naslov": "SOSO",
+        "sifra_umetnika": 355065,
+        "ime_umetnika": "WINNER"
+    },
+    {
+        "mesto": 1,
+        "naslov": "Spark",
+        "sifra_umetnika": 361999,
+        "ime_umetnika": "Taeyeon"
+    },
+    {
+        "mesto": 2,
+        "naslov": "Follow",
+        "sifra_umetnika": 351688,
+        "ime_umetnika": "Monsta X"
+    },
+    {
+        "mesto": 3,
+        "naslov": "How can I love the heartbreak, you`re the one I love",
+        "sifra_umetnika": 372941,
+        "ime_umetnika": "AKMU"
+    },
+    {
+        "mesto": 4,
+        "naslov": "Another Love",
+        "sifra_umetnika": 367651,
+        "ime_umetnika": "Song Ha-ye"
+    },
+    {
+        "mesto": 5,
+        "naslov": "I&#039;m a little drunk (Prod. 2soo)",
+        "sifra_umetnika": 364963,
+        "ime_umetnika": "Lim Jae-hyun"
+    },
+    {
+        "mesto": 6,
+        "naslov": "Feel Special",
+        "sifra_umetnika": 364940,
+        "ime_umetnika": "TWICE"
+    },
+    {
+        "mesto": 7,
+        "naslov": "Workaholic",
+        "sifra_umetnika": 239348,
+        "ime_umetnika": "Bolbbalgan4 (Bolbbalgan Sa-chun-gi)"
+    },
+    {
+        "mesto": 8,
+        "naslov": "LOVE ME",
+        "sifra_umetnika": 364146,
+        "ime_umetnika": "NU&rsquo;EST"
+    },
+    {
+        "mesto": 9,
+        "naslov": "I Still love you a lot",
+        "sifra_umetnika": 373333,
+        "ime_umetnika": "Jeon Sang-keun "
+    },
+    {
+        "mesto": 10,
+        "naslov": "SOSO",
+        "sifra_umetnika": 355065,
+        "ime_umetnika": "WINNER"
+    },
+    {
+        "mesto": 1,
+        "naslov": "Spark",
+        "sifra_umetnika": 361999,
+        "ime_umetnika": "Taeyeon"
+    },
+    {
+        "mesto": 2,
+        "naslov": "Follow",
+        "sifra_umetnika": 351688,
+        "ime_umetnika": "Monsta X"
+    },
+    {
+        "mesto": 3,
+        "naslov": "How can I love the heartbreak, you`re the one I love",
+        "sifra_umetnika": 372941,
+        "ime_umetnika": "AKMU"
+    },
+    {
+        "mesto": 4,
+        "naslov": "Another Love",
+        "sifra_umetnika": 367651,
+        "ime_umetnika": "Song Ha-ye"
+    },
+    {
+        "mesto": 5,
+        "naslov": "I&#039;m a little drunk (Prod. 2soo)",
+        "sifra_umetnika": 364963,
+        "ime_umetnika": "Lim Jae-hyun"
+    },
+    {
+        "mesto": 6,
+        "naslov": "Feel Special",
+        "sifra_umetnika": 364940,
+        "ime_umetnika": "TWICE"
+    },
+    {
+        "mesto": 7,
+        "naslov": "Workaholic",
+        "sifra_umetnika": 239348,
+        "ime_umetnika": "Bolbbalgan4 (Bolbbalgan Sa-chun-gi)"
+    },
+    {
+        "mesto": 8,
+        "naslov": "LOVE ME",
+        "sifra_umetnika": 364146,
+        "ime_umetnika": "NU&rsquo;EST"
+    },
+    {
+        "mesto": 9,
+        "naslov": "I Still love you a lot",
+        "sifra_umetnika": 373333,
+        "ime_umetnika": "Jeon Sang-keun "
+    },
+    {
+        "mesto": 10,
+        "naslov": "SOSO",
+        "sifra_umetnika": 355065,
+        "ime_umetnika": "WINNER"
+    },
+    {
+        "mesto": 1,
+        "naslov": "Spark",
+        "sifra_umetnika": 361999,
+        "ime_umetnika": "Taeyeon"
+    },
+    {
+        "mesto": 2,
+        "naslov": "Follow",
+        "sifra_umetnika": 351688,
+        "ime_umetnika": "Monsta X"
+    },
+    {
+        "mesto": 3,
+        "naslov": "How can I love the heartbreak, you`re the one I love",
+        "sifra_umetnika": 372941,
+        "ime_umetnika": "AKMU"
+    },
+    {
+        "mesto": 4,
+        "naslov": "Another Love",
+        "sifra_umetnika": 367651,
+        "ime_umetnika": "Song Ha-ye"
+    },
+    {
+        "mesto": 5,
+        "naslov": "I&#039;m a little drunk (Prod. 2soo)",
+        "sifra_umetnika": 364963,
+        "ime_umetnika": "Lim Jae-hyun"
+    },
+    {
+        "mesto": 6,
+        "naslov": "Feel Special",
+        "sifra_umetnika": 364940,
+        "ime_umetnika": "TWICE"
+    },
+    {
+        "mesto": 7,
+        "naslov": "Workaholic",
+        "sifra_umetnika": 239348,
+        "ime_umetnika": "Bolbbalgan4 (Bolbbalgan Sa-chun-gi)"
+    },
+    {
+        "mesto": 8,
+        "naslov": "LOVE ME",
+        "sifra_umetnika": 364146,
+        "ime_umetnika": "NU&rsquo;EST"
+    },
+    {
+        "mesto": 9,
+        "naslov": "I Still love you a lot",
+        "sifra_umetnika": 373333,
+        "ime_umetnika": "Jeon Sang-keun "
+    },
+    {
+        "mesto": 10,
+        "naslov": "SOSO",
+        "sifra_umetnika": 355065,
+        "ime_umetnika": "WINNER"
+    },
+    {
+        "mesto": 1,
+        "naslov": "Spark",
+        "sifra_umetnika": 361999,
+        "ime_umetnika": "Taeyeon"
+    },
+    {
+        "mesto": 2,
+        "naslov": "Follow",
+        "sifra_umetnika": 351688,
+        "ime_umetnika": "Monsta X"
+    },
+    {
+        "mesto": 3,
+        "naslov": "How can I love the heartbreak, you`re the one I love",
+        "sifra_umetnika": 372941,
+        "ime_umetnika": "AKMU"
+    },
+    {
+        "mesto": 4,
+        "naslov": "Another Love",
+        "sifra_umetnika": 367651,
+        "ime_umetnika": "Song Ha-ye"
+    },
+    {
+        "mesto": 5,
+        "naslov": "I&#039;m a little drunk (Prod. 2soo)",
+        "sifra_umetnika": 364963,
+        "ime_umetnika": "Lim Jae-hyun"
+    },
+    {
+        "mesto": 6,
+        "naslov": "Feel Special",
+        "sifra_umetnika": 364940,
+        "ime_umetnika": "TWICE"
+    },
+    {
+        "mesto": 7,
+        "naslov": "Workaholic",
+        "sifra_umetnika": 239348,
+        "ime_umetnika": "Bolbbalgan4 (Bolbbalgan Sa-chun-gi)"
+    },
+    {
+        "mesto": 8,
+        "naslov": "LOVE ME",
+        "sifra_umetnika": 364146,
+        "ime_umetnika": "NU&rsquo;EST"
+    },
+    {
+        "mesto": 9,
+        "naslov": "I Still love you a lot",
+        "sifra_umetnika": 373333,
+        "ime_umetnika": "Jeon Sang-keun "
+    },
+    {
+        "mesto": 10,
+        "naslov": "SOSO",
+        "sifra_umetnika": 355065,
+        "ime_umetnika": "WINNER"
+    },
+    {
+        "mesto": 1,
+        "naslov": "Spark",
+        "sifra_umetnika": 361999,
+        "ime_umetnika": "Taeyeon"
+    },
+    {
+        "mesto": 2,
+        "naslov": "Follow",
+        "sifra_umetnika": 351688,
+        "ime_umetnika": "Monsta X"
+    },
+    {
+        "mesto": 3,
+        "naslov": "How can I love the heartbreak, you`re the one I love",
+        "sifra_umetnika": 372941,
+        "ime_umetnika": "AKMU"
+    },
+    {
+        "mesto": 4,
+        "naslov": "Another Love",
+        "sifra_umetnika": 367651,
+        "ime_umetnika": "Song Ha-ye"
+    },
+    {
+        "mesto": 5,
+        "naslov": "I&#039;m a little drunk (Prod. 2soo)",
+        "sifra_umetnika": 364963,
+        "ime_umetnika": "Lim Jae-hyun"
+    },
+    {
+        "mesto": 6,
+        "naslov": "Feel Special",
+        "sifra_umetnika": 364940,
+        "ime_umetnika": "TWICE"
+    },
+    {
+        "mesto": 7,
+        "naslov": "Workaholic",
+        "sifra_umetnika": 239348,
+        "ime_umetnika": "Bolbbalgan4 (Bolbbalgan Sa-chun-gi)"
+    },
+    {
+        "mesto": 8,
+        "naslov": "LOVE ME",
+        "sifra_umetnika": 364146,
+        "ime_umetnika": "NU&rsquo;EST"
+    },
+    {
+        "mesto": 9,
+        "naslov": "I Still love you a lot",
+        "sifra_umetnika": 373333,
+        "ime_umetnika": "Jeon Sang-keun "
+    },
+    {
+        "mesto": 10,
+        "naslov": "SOSO",
+        "sifra_umetnika": 355065,
+        "ime_umetnika": "WINNER"
+    },
+    {
+        "mesto": 1,
+        "naslov": "Spark",
+        "sifra_umetnika": 361999,
+        "ime_umetnika": "Taeyeon"
+    },
+    {
+        "mesto": 2,
+        "naslov": "Follow",
+        "sifra_umetnika": 351688,
+        "ime_umetnika": "Monsta X"
+    },
+    {
+        "mesto": 3,
+        "naslov": "How can I love the heartbreak, you`re the one I love",
+        "sifra_umetnika": 372941,
+        "ime_umetnika": "AKMU"
+    },
+    {
+        "mesto": 4,
+        "naslov": "Another Love",
+        "sifra_umetnika": 367651,
+        "ime_umetnika": "Song Ha-ye"
+    },
+    {
+        "mesto": 5,
+        "naslov": "I&#039;m a little drunk (Prod. 2soo)",
+        "sifra_umetnika": 364963,
+        "ime_umetnika": "Lim Jae-hyun"
+    },
+    {
+        "mesto": 6,
+        "naslov": "Feel Special",
+        "sifra_umetnika": 364940,
+        "ime_umetnika": "TWICE"
+    },
+    {
+        "mesto": 7,
+        "naslov": "Workaholic",
+        "sifra_umetnika": 239348,
+        "ime_umetnika": "Bolbbalgan4 (Bolbbalgan Sa-chun-gi)"
+    },
+    {
+        "mesto": 8,
+        "naslov": "LOVE ME",
+        "sifra_umetnika": 364146,
+        "ime_umetnika": "NU&rsquo;EST"
+    },
+    {
+        "mesto": 9,
+        "naslov": "I Still love you a lot",
+        "sifra_umetnika": 373333,
+        "ime_umetnika": "Jeon Sang-keun "
+    },
+    {
+        "mesto": 10,
+        "naslov": "SOSO",
+        "sifra_umetnika": 355065,
+        "ime_umetnika": "WINNER"
+    },
+    {
+        "mesto": 1,
+        "naslov": "Spark",
+        "sifra_umetnika": 361999,
+        "ime_umetnika": "Taeyeon"
+    },
+    {
+        "mesto": 2,
+        "naslov": "Follow",
+        "sifra_umetnika": 351688,
+        "ime_umetnika": "Monsta X"
+    },
+    {
+        "mesto": 3,
+        "naslov": "How can I love the heartbreak, you`re the one I love",
+        "sifra_umetnika": 372941,
+        "ime_umetnika": "AKMU"
+    },
+    {
+        "mesto": 4,
+        "naslov": "Another Love",
+        "sifra_umetnika": 367651,
+        "ime_umetnika": "Song Ha-ye"
+    },
+    {
+        "mesto": 5,
+        "naslov": "I&#039;m a little drunk (Prod. 2soo)",
+        "sifra_umetnika": 364963,
+        "ime_umetnika": "Lim Jae-hyun"
+    },
+    {
+        "mesto": 6,
+        "naslov": "Feel Special",
+        "sifra_umetnika": 364940,
+        "ime_umetnika": "TWICE"
+    },
+    {
+        "mesto": 7,
+        "naslov": "Workaholic",
+        "sifra_umetnika": 239348,
+        "ime_umetnika": "Bolbbalgan4 (Bolbbalgan Sa-chun-gi)"
+    },
+    {
+        "mesto": 8,
+        "naslov": "LOVE ME",
+        "sifra_umetnika": 364146,
+        "ime_umetnika": "NU&rsquo;EST"
+    },
+    {
+        "mesto": 9,
+        "naslov": "I Still love you a lot",
+        "sifra_umetnika": 373333,
+        "ime_umetnika": "Jeon Sang-keun "
+    },
+    {
+        "mesto": 10,
+        "naslov": "SOSO",
+        "sifra_umetnika": 355065,
+        "ime_umetnika": "WINNER"
+    },
+    {
+        "mesto": 1,
+        "naslov": "Spark",
+        "sifra_umetnika": 361999,
+        "ime_umetnika": "Taeyeon"
+    },
+    {
+        "mesto": 2,
+        "naslov": "Follow",
+        "sifra_umetnika": 351688,
+        "ime_umetnika": "Monsta X"
+    },
+    {
+        "mesto": 3,
+        "naslov": "How can I love the heartbreak, you`re the one I love",
+        "sifra_umetnika": 372941,
+        "ime_umetnika": "AKMU"
+    },
+    {
+        "mesto": 4,
+        "naslov": "Another Love",
+        "sifra_umetnika": 367651,
+        "ime_umetnika": "Song Ha-ye"
+    },
+    {
+        "mesto": 5,
+        "naslov": "I&#039;m a little drunk (Prod. 2soo)",
+        "sifra_umetnika": 364963,
+        "ime_umetnika": "Lim Jae-hyun"
+    },
+    {
+        "mesto": 6,
+        "naslov": "Feel Special",
+        "sifra_umetnika": 364940,
+        "ime_umetnika": "TWICE"
+    },
+    {
+        "mesto": 7,
+        "naslov": "Workaholic",
+        "sifra_umetnika": 239348,
+        "ime_umetnika": "Bolbbalgan4 (Bolbbalgan Sa-chun-gi)"
+    },
+    {
+        "mesto": 8,
+        "naslov": "LOVE ME",
+        "sifra_umetnika": 364146,
+        "ime_umetnika": "NU&rsquo;EST"
+    },
+    {
+        "mesto": 9,
+        "naslov": "I Still love you a lot",
+        "sifra_umetnika": 373333,
+        "ime_umetnika": "Jeon Sang-keun "
+    },
+    {
+        "mesto": 10,
+        "naslov": "SOSO",
+        "sifra_umetnika": 355065,
+        "ime_umetnika": "WINNER"
+    },
+    {
+        "mesto": 1,
+        "naslov": "Spark",
+        "sifra_umetnika": 361999,
+        "ime_umetnika": "Taeyeon"
+    },
+    {
+        "mesto": 2,
+        "naslov": "Follow",
+        "sifra_umetnika": 351688,
+        "ime_umetnika": "Monsta X"
+    },
+    {
+        "mesto": 3,
+        "naslov": "How can I love the heartbreak, you`re the one I love",
+        "sifra_umetnika": 372941,
+        "ime_umetnika": "AKMU"
+    },
+    {
+        "mesto": 4,
+        "naslov": "Another Love",
+        "sifra_umetnika": 367651,
+        "ime_umetnika": "Song Ha-ye"
+    },
+    {
+        "mesto": 5,
+        "naslov": "I&#039;m a little drunk (Prod. 2soo)",
+        "sifra_umetnika": 364963,
+        "ime_umetnika": "Lim Jae-hyun"
+    },
+    {
+        "mesto": 6,
+        "naslov": "Feel Special",
+        "sifra_umetnika": 364940,
+        "ime_umetnika": "TWICE"
+    },
+    {
+        "mesto": 7,
+        "naslov": "Workaholic",
+        "sifra_umetnika": 239348,
+        "ime_umetnika": "Bolbbalgan4 (Bolbbalgan Sa-chun-gi)"
+    },
+    {
+        "mesto": 8,
+        "naslov": "LOVE ME",
+        "sifra_umetnika": 364146,
+        "ime_umetnika": "NU&rsquo;EST"
+    },
+    {
+        "mesto": 9,
+        "naslov": "I Still love you a lot",
+        "sifra_umetnika": 373333,
+        "ime_umetnika": "Jeon Sang-keun "
+    },
+    {
+        "mesto": 10,
+        "naslov": "SOSO",
+        "sifra_umetnika": 355065,
+        "ime_umetnika": "WINNER"
+    },
+    {
+        "mesto": 1,
+        "naslov": "Spark",
+        "sifra_umetnika": 361999,
+        "ime_umetnika": "Taeyeon"
+    },
+    {
+        "mesto": 2,
+        "naslov": "Follow",
+        "sifra_umetnika": 351688,
+        "ime_umetnika": "Monsta X"
+    },
+    {
+        "mesto": 3,
+        "naslov": "How can I love the heartbreak, you`re the one I love",
+        "sifra_umetnika": 372941,
+        "ime_umetnika": "AKMU"
+    },
+    {
+        "mesto": 4,
+        "naslov": "Another Love",
+        "sifra_umetnika": 367651,
+        "ime_umetnika": "Song Ha-ye"
+    },
+    {
+        "mesto": 5,
+        "naslov": "I&#039;m a little drunk (Prod. 2soo)",
+        "sifra_umetnika": 364963,
+        "ime_umetnika": "Lim Jae-hyun"
+    },
+    {
+        "mesto": 6,
+        "naslov": "Feel Special",
+        "sifra_umetnika": 364940,
+        "ime_umetnika": "TWICE"
+    },
+    {
+        "mesto": 7,
+        "naslov": "Workaholic",
+        "sifra_umetnika": 239348,
+        "ime_umetnika": "Bolbbalgan4 (Bolbbalgan Sa-chun-gi)"
+    },
+    {
+        "mesto": 8,
+        "naslov": "LOVE ME",
+        "sifra_umetnika": 364146,
+        "ime_umetnika": "NU&rsquo;EST"
+    },
+    {
+        "mesto": 9,
+        "naslov": "I Still love you a lot",
+        "sifra_umetnika": 373333,
+        "ime_umetnika": "Jeon Sang-keun "
+    },
+    {
+        "mesto": 10,
+        "naslov": "SOSO",
+        "sifra_umetnika": 355065,
+        "ime_umetnika": "WINNER"
+    },
+    {
+        "mesto": 1,
+        "naslov": "Spark",
+        "sifra_umetnika": 361999,
+        "ime_umetnika": "Taeyeon"
+    },
+    {
+        "mesto": 2,
+        "naslov": "Follow",
+        "sifra_umetnika": 351688,
+        "ime_umetnika": "Monsta X"
+    },
+    {
+        "mesto": 3,
+        "naslov": "How can I love the heartbreak, you`re the one I love",
+        "sifra_umetnika": 372941,
+        "ime_umetnika": "AKMU"
+    },
+    {
+        "mesto": 4,
+        "naslov": "Another Love",
+        "sifra_umetnika": 367651,
+        "ime_umetnika": "Song Ha-ye"
+    },
+    {
+        "mesto": 5,
+        "naslov": "I&#039;m a little drunk (Prod. 2soo)",
+        "sifra_umetnika": 364963,
+        "ime_umetnika": "Lim Jae-hyun"
+    },
+    {
+        "mesto": 6,
+        "naslov": "Feel Special",
+        "sifra_umetnika": 364940,
+        "ime_umetnika": "TWICE"
+    },
+    {
+        "mesto": 7,
+        "naslov": "Workaholic",
+        "sifra_umetnika": 239348,
+        "ime_umetnika": "Bolbbalgan4 (Bolbbalgan Sa-chun-gi)"
+    },
+    {
+        "mesto": 8,
+        "naslov": "LOVE ME",
+        "sifra_umetnika": 364146,
+        "ime_umetnika": "NU&rsquo;EST"
+    },
+    {
+        "mesto": 9,
+        "naslov": "I Still love you a lot",
+        "sifra_umetnika": 373333,
+        "ime_umetnika": "Jeon Sang-keun "
+    },
+    {
+        "mesto": 10,
+        "naslov": "SOSO",
+        "sifra_umetnika": 355065,
+        "ime_umetnika": "WINNER"
+    },
+    {
+        "mesto": 1,
+        "naslov": "Spark",
+        "sifra_umetnika": 361999,
+        "ime_umetnika": "Taeyeon"
+    },
+    {
+        "mesto": 2,
+        "naslov": "Follow",
+        "sifra_umetnika": 351688,
+        "ime_umetnika": "Monsta X"
+    },
+    {
+        "mesto": 3,
+        "naslov": "How can I love the heartbreak, you`re the one I love",
+        "sifra_umetnika": 372941,
+        "ime_umetnika": "AKMU"
+    },
+    {
+        "mesto": 4,
+        "naslov": "Another Love",
+        "sifra_umetnika": 367651,
+        "ime_umetnika": "Song Ha-ye"
+    },
+    {
+        "mesto": 5,
+        "naslov": "I&#039;m a little drunk (Prod. 2soo)",
+        "sifra_umetnika": 364963,
+        "ime_umetnika": "Lim Jae-hyun"
+    },
+    {
+        "mesto": 6,
+        "naslov": "Feel Special",
+        "sifra_umetnika": 364940,
+        "ime_umetnika": "TWICE"
+    },
+    {
+        "mesto": 7,
+        "naslov": "Workaholic",
+        "sifra_umetnika": 239348,
+        "ime_umetnika": "Bolbbalgan4 (Bolbbalgan Sa-chun-gi)"
+    },
+    {
+        "mesto": 8,
+        "naslov": "LOVE ME",
+        "sifra_umetnika": 364146,
+        "ime_umetnika": "NU&rsquo;EST"
+    },
+    {
+        "mesto": 9,
+        "naslov": "I Still love you a lot",
+        "sifra_umetnika": 373333,
+        "ime_umetnika": "Jeon Sang-keun "
+    },
+    {
+        "mesto": 10,
+        "naslov": "SOSO",
+        "sifra_umetnika": 355065,
+        "ime_umetnika": "WINNER"
+    },
+    {
+        "mesto": 1,
+        "naslov": "Spark",
+        "sifra_umetnika": 361999,
+        "ime_umetnika": "Taeyeon"
+    },
+    {
+        "mesto": 2,
+        "naslov": "Follow",
+        "sifra_umetnika": 351688,
+        "ime_umetnika": "Monsta X"
+    },
+    {
+        "mesto": 3,
+        "naslov": "How can I love the heartbreak, you`re the one I love",
+        "sifra_umetnika": 372941,
+        "ime_umetnika": "AKMU"
+    },
+    {
+        "mesto": 4,
+        "naslov": "Another Love",
+        "sifra_umetnika": 367651,
+        "ime_umetnika": "Song Ha-ye"
+    },
+    {
+        "mesto": 5,
+        "naslov": "I&#039;m a little drunk (Prod. 2soo)",
+        "sifra_umetnika": 364963,
+        "ime_umetnika": "Lim Jae-hyun"
+    },
+    {
+        "mesto": 6,
+        "naslov": "Feel Special",
+        "sifra_umetnika": 364940,
+        "ime_umetnika": "TWICE"
+    },
+    {
+        "mesto": 7,
+        "naslov": "Workaholic",
+        "sifra_umetnika": 239348,
+        "ime_umetnika": "Bolbbalgan4 (Bolbbalgan Sa-chun-gi)"
+    },
+    {
+        "mesto": 8,
+        "naslov": "LOVE ME",
+        "sifra_umetnika": 364146,
+        "ime_umetnika": "NU&rsquo;EST"
+    },
+    {
+        "mesto": 9,
+        "naslov": "I Still love you a lot",
+        "sifra_umetnika": 373333,
+        "ime_umetnika": "Jeon Sang-keun "
+    },
+    {
+        "mesto": 10,
+        "naslov": "SOSO",
+        "sifra_umetnika": 355065,
+        "ime_umetnika": "WINNER"
+    },
+    {
+        "mesto": 1,
+        "naslov": "Spark",
+        "sifra_umetnika": 361999,
+        "ime_umetnika": "Taeyeon"
+    },
+    {
+        "mesto": 2,
+        "naslov": "Follow",
+        "sifra_umetnika": 351688,
+        "ime_umetnika": "Monsta X"
+    },
+    {
+        "mesto": 3,
+        "naslov": "How can I love the heartbreak, you`re the one I love",
+        "sifra_umetnika": 372941,
+        "ime_umetnika": "AKMU"
+    },
+    {
+        "mesto": 4,
+        "naslov": "Another Love",
+        "sifra_umetnika": 367651,
+        "ime_umetnika": "Song Ha-ye"
+    },
+    {
+        "mesto": 5,
+        "naslov": "I&#039;m a little drunk (Prod. 2soo)",
+        "sifra_umetnika": 364963,
+        "ime_umetnika": "Lim Jae-hyun"
+    },
+    {
+        "mesto": 6,
+        "naslov": "Feel Special",
+        "sifra_umetnika": 364940,
+        "ime_umetnika": "TWICE"
+    },
+    {
+        "mesto": 7,
+        "naslov": "Workaholic",
+        "sifra_umetnika": 239348,
+        "ime_umetnika": "Bolbbalgan4 (Bolbbalgan Sa-chun-gi)"
+    },
+    {
+        "mesto": 8,
+        "naslov": "LOVE ME",
+        "sifra_umetnika": 364146,
+        "ime_umetnika": "NU&rsquo;EST"
+    },
+    {
+        "mesto": 9,
+        "naslov": "I Still love you a lot",
+        "sifra_umetnika": 373333,
+        "ime_umetnika": "Jeon Sang-keun "
+    },
+    {
+        "mesto": 10,
+        "naslov": "SOSO",
+        "sifra_umetnika": 355065,
+        "ime_umetnika": "WINNER"
+    },
+    {
+        "mesto": 1,
+        "naslov": "Spark",
+        "sifra_umetnika": 361999,
+        "ime_umetnika": "Taeyeon"
+    },
+    {
+        "mesto": 2,
+        "naslov": "Follow",
+        "sifra_umetnika": 351688,
+        "ime_umetnika": "Monsta X"
+    },
+    {
+        "mesto": 3,
+        "naslov": "How can I love the heartbreak, you`re the one I love",
+        "sifra_umetnika": 372941,
+        "ime_umetnika": "AKMU"
+    },
+    {
+        "mesto": 4,
+        "naslov": "Another Love",
+        "sifra_umetnika": 367651,
+        "ime_umetnika": "Song Ha-ye"
+    },
+    {
+        "mesto": 5,
+        "naslov": "I&#039;m a little drunk (Prod. 2soo)",
+        "sifra_umetnika": 364963,
+        "ime_umetnika": "Lim Jae-hyun"
+    },
+    {
+        "mesto": 6,
+        "naslov": "Feel Special",
+        "sifra_umetnika": 364940,
+        "ime_umetnika": "TWICE"
+    },
+    {
+        "mesto": 7,
+        "naslov": "Workaholic",
+        "sifra_umetnika": 239348,
+        "ime_umetnika": "Bolbbalgan4 (Bolbbalgan Sa-chun-gi)"
+    },
+    {
+        "mesto": 8,
+        "naslov": "LOVE ME",
+        "sifra_umetnika": 364146,
+        "ime_umetnika": "NU&rsquo;EST"
+    },
+    {
+        "mesto": 9,
+        "naslov": "I Still love you a lot",
+        "sifra_umetnika": 373333,
+        "ime_umetnika": "Jeon Sang-keun "
+    },
+    {
+        "mesto": 10,
+        "naslov": "SOSO",
+        "sifra_umetnika": 355065,
+        "ime_umetnika": "WINNER"
+    },
+    {
+        "mesto": 1,
+        "naslov": "Spark",
+        "sifra_umetnika": 361999,
+        "ime_umetnika": "Taeyeon"
+    },
+    {
+        "mesto": 2,
+        "naslov": "Follow",
+        "sifra_umetnika": 351688,
+        "ime_umetnika": "Monsta X"
+    },
+    {
+        "mesto": 3,
+        "naslov": "How can I love the heartbreak, you`re the one I love",
+        "sifra_umetnika": 372941,
+        "ime_umetnika": "AKMU"
+    },
+    {
+        "mesto": 4,
+        "naslov": "Another Love",
+        "sifra_umetnika": 367651,
+        "ime_umetnika": "Song Ha-ye"
+    },
+    {
+        "mesto": 5,
+        "naslov": "I&#039;m a little drunk (Prod. 2soo)",
+        "sifra_umetnika": 364963,
+        "ime_umetnika": "Lim Jae-hyun"
+    },
+    {
+        "mesto": 6,
+        "naslov": "Feel Special",
+        "sifra_umetnika": 364940,
+        "ime_umetnika": "TWICE"
+    },
+    {
+        "mesto": 7,
+        "naslov": "Workaholic",
+        "sifra_umetnika": 239348,
+        "ime_umetnika": "Bolbbalgan4 (Bolbbalgan Sa-chun-gi)"
+    },
+    {
+        "mesto": 8,
+        "naslov": "LOVE ME",
+        "sifra_umetnika": 364146,
+        "ime_umetnika": "NU&rsquo;EST"
+    },
+    {
+        "mesto": 9,
+        "naslov": "I Still love you a lot",
+        "sifra_umetnika": 373333,
+        "ime_umetnika": "Jeon Sang-keun "
+    },
+    {
+        "mesto": 10,
+        "naslov": "SOSO",
+        "sifra_umetnika": 355065,
+        "ime_umetnika": "WINNER"
+    },
+    {
+        "mesto": 1,
+        "naslov": "Spark",
+        "sifra_umetnika": 361999,
+        "ime_umetnika": "Taeyeon"
+    },
+    {
+        "mesto": 2,
+        "naslov": "Follow",
+        "sifra_umetnika": 351688,
+        "ime_umetnika": "Monsta X"
+    },
+    {
+        "mesto": 3,
+        "naslov": "How can I love the heartbreak, you`re the one I love",
+        "sifra_umetnika": 372941,
+        "ime_umetnika": "AKMU"
+    },
+    {
+        "mesto": 4,
+        "naslov": "Another Love",
+        "sifra_umetnika": 367651,
+        "ime_umetnika": "Song Ha-ye"
+    },
+    {
+        "mesto": 5,
+        "naslov": "I&#039;m a little drunk (Prod. 2soo)",
+        "sifra_umetnika": 364963,
+        "ime_umetnika": "Lim Jae-hyun"
+    },
+    {
+        "mesto": 6,
+        "naslov": "Feel Special",
+        "sifra_umetnika": 364940,
+        "ime_umetnika": "TWICE"
+    },
+    {
+        "mesto": 7,
+        "naslov": "Workaholic",
+        "sifra_umetnika": 239348,
+        "ime_umetnika": "Bolbbalgan4 (Bolbbalgan Sa-chun-gi)"
+    },
+    {
+        "mesto": 8,
+        "naslov": "LOVE ME",
+        "sifra_umetnika": 364146,
+        "ime_umetnika": "NU&rsquo;EST"
+    },
+    {
+        "mesto": 9,
+        "naslov": "I Still love you a lot",
+        "sifra_umetnika": 373333,
+        "ime_umetnika": "Jeon Sang-keun "
+    },
+    {
+        "mesto": 10,
+        "naslov": "SOSO",
+        "sifra_umetnika": 355065,
+        "ime_umetnika": "WINNER"
+    },
+    {
+        "mesto": 1,
+        "naslov": "Spark",
+        "sifra_umetnika": 361999,
+        "ime_umetnika": "Taeyeon"
+    },
+    {
+        "mesto": 2,
+        "naslov": "Follow",
+        "sifra_umetnika": 351688,
+        "ime_umetnika": "Monsta X"
+    },
+    {
+        "mesto": 3,
+        "naslov": "How can I love the heartbreak, you`re the one I love",
+        "sifra_umetnika": 372941,
+        "ime_umetnika": "AKMU"
+    },
+    {
+        "mesto": 4,
+        "naslov": "Another Love",
+        "sifra_umetnika": 367651,
+        "ime_umetnika": "Song Ha-ye"
+    },
+    {
+        "mesto": 5,
+        "naslov": "I&#039;m a little drunk (Prod. 2soo)",
+        "sifra_umetnika": 364963,
+        "ime_umetnika": "Lim Jae-hyun"
+    },
+    {
+        "mesto": 6,
+        "naslov": "Feel Special",
+        "sifra_umetnika": 364940,
+        "ime_umetnika": "TWICE"
+    },
+    {
+        "mesto": 7,
+        "naslov": "Workaholic",
+        "sifra_umetnika": 239348,
+        "ime_umetnika": "Bolbbalgan4 (Bolbbalgan Sa-chun-gi)"
+    },
+    {
+        "mesto": 8,
+        "naslov": "LOVE ME",
+        "sifra_umetnika": 364146,
+        "ime_umetnika": "NU&rsquo;EST"
+    },
+    {
+        "mesto": 9,
+        "naslov": "I Still love you a lot",
+        "sifra_umetnika": 373333,
+        "ime_umetnika": "Jeon Sang-keun "
+    },
+    {
+        "mesto": 10,
+        "naslov": "SOSO",
+        "sifra_umetnika": 355065,
+        "ime_umetnika": "WINNER"
+    },
+    {
+        "mesto": 1,
+        "naslov": "Spark",
+        "sifra_umetnika": 361999,
+        "ime_umetnika": "Taeyeon"
+    },
+    {
+        "mesto": 2,
+        "naslov": "Follow",
+        "sifra_umetnika": 351688,
+        "ime_umetnika": "Monsta X"
+    },
+    {
+        "mesto": 3,
+        "naslov": "How can I love the heartbreak, you`re the one I love",
+        "sifra_umetnika": 372941,
+        "ime_umetnika": "AKMU"
+    },
+    {
+        "mesto": 4,
+        "naslov": "Another Love",
+        "sifra_umetnika": 367651,
+        "ime_umetnika": "Song Ha-ye"
+    },
+    {
+        "mesto": 5,
+        "naslov": "I&#039;m a little drunk (Prod. 2soo)",
+        "sifra_umetnika": 364963,
+        "ime_umetnika": "Lim Jae-hyun"
+    },
+    {
+        "mesto": 6,
+        "naslov": "Feel Special",
+        "sifra_umetnika": 364940,
+        "ime_umetnika": "TWICE"
+    },
+    {
+        "mesto": 7,
+        "naslov": "Workaholic",
+        "sifra_umetnika": 239348,
+        "ime_umetnika": "Bolbbalgan4 (Bolbbalgan Sa-chun-gi)"
+    },
+    {
+        "mesto": 8,
+        "naslov": "LOVE ME",
+        "sifra_umetnika": 364146,
+        "ime_umetnika": "NU&rsquo;EST"
+    },
+    {
+        "mesto": 9,
+        "naslov": "I Still love you a lot",
+        "sifra_umetnika": 373333,
+        "ime_umetnika": "Jeon Sang-keun "
+    },
+    {
+        "mesto": 10,
+        "naslov": "SOSO",
+        "sifra_umetnika": 355065,
+        "ime_umetnika": "WINNER"
+    },
+    {
+        "mesto": 1,
+        "naslov": "Spark",
+        "sifra_umetnika": 361999,
+        "ime_umetnika": "Taeyeon"
+    },
+    {
+        "mesto": 2,
+        "naslov": "Follow",
+        "sifra_umetnika": 351688,
+        "ime_umetnika": "Monsta X"
+    },
+    {
+        "mesto": 3,
+        "naslov": "How can I love the heartbreak, you`re the one I love",
+        "sifra_umetnika": 372941,
+        "ime_umetnika": "AKMU"
+    },
+    {
+        "mesto": 4,
+        "naslov": "Another Love",
+        "sifra_umetnika": 367651,
+        "ime_umetnika": "Song Ha-ye"
+    },
+    {
+        "mesto": 5,
+        "naslov": "I&#039;m a little drunk (Prod. 2soo)",
+        "sifra_umetnika": 364963,
+        "ime_umetnika": "Lim Jae-hyun"
+    },
+    {
+        "mesto": 6,
+        "naslov": "Feel Special",
+        "sifra_umetnika": 364940,
+        "ime_umetnika": "TWICE"
+    },
+    {
+        "mesto": 7,
+        "naslov": "Workaholic",
+        "sifra_umetnika": 239348,
+        "ime_umetnika": "Bolbbalgan4 (Bolbbalgan Sa-chun-gi)"
+    },
+    {
+        "mesto": 8,
+        "naslov": "LOVE ME",
+        "sifra_umetnika": 364146,
+        "ime_umetnika": "NU&rsquo;EST"
+    },
+    {
+        "mesto": 9,
+        "naslov": "I Still love you a lot",
+        "sifra_umetnika": 373333,
+        "ime_umetnika": "Jeon Sang-keun "
+    },
+    {
+        "mesto": 10,
+        "naslov": "SOSO",
+        "sifra_umetnika": 355065,
+        "ime_umetnika": "WINNER"
+    },
+    {
+        "mesto": 1,
+        "naslov": "Spark",
+        "sifra_umetnika": 361999,
+        "ime_umetnika": "Taeyeon"
+    },
+    {
+        "mesto": 2,
+        "naslov": "Follow",
+        "sifra_umetnika": 351688,
+        "ime_umetnika": "Monsta X"
+    },
+    {
+        "mesto": 3,
+        "naslov": "How can I love the heartbreak, you`re the one I love",
+        "sifra_umetnika": 372941,
+        "ime_umetnika": "AKMU"
+    },
+    {
+        "mesto": 4,
+        "naslov": "Another Love",
+        "sifra_umetnika": 367651,
+        "ime_umetnika": "Song Ha-ye"
+    },
+    {
+        "mesto": 5,
+        "naslov": "I&#039;m a little drunk (Prod. 2soo)",
+        "sifra_umetnika": 364963,
+        "ime_umetnika": "Lim Jae-hyun"
+    },
+    {
+        "mesto": 6,
+        "naslov": "Feel Special",
+        "sifra_umetnika": 364940,
+        "ime_umetnika": "TWICE"
+    },
+    {
+        "mesto": 7,
+        "naslov": "Workaholic",
+        "sifra_umetnika": 239348,
+        "ime_umetnika": "Bolbbalgan4 (Bolbbalgan Sa-chun-gi)"
+    },
+    {
+        "mesto": 8,
+        "naslov": "LOVE ME",
+        "sifra_umetnika": 364146,
+        "ime_umetnika": "NU&rsquo;EST"
+    },
+    {
+        "mesto": 9,
+        "naslov": "I Still love you a lot",
+        "sifra_umetnika": 373333,
+        "ime_umetnika": "Jeon Sang-keun "
+    },
+    {
+        "mesto": 10,
+        "naslov": "SOSO",
+        "sifra_umetnika": 355065,
+        "ime_umetnika": "WINNER"
+    },
+    {
+        "mesto": 1,
+        "naslov": "Spark",
+        "sifra_umetnika": 361999,
+        "ime_umetnika": "Taeyeon"
+    },
+    {
+        "mesto": 2,
+        "naslov": "Follow",
+        "sifra_umetnika": 351688,
+        "ime_umetnika": "Monsta X"
+    },
+    {
+        "mesto": 3,
+        "naslov": "How can I love the heartbreak, you`re the one I love",
+        "sifra_umetnika": 372941,
+        "ime_umetnika": "AKMU"
+    },
+    {
+        "mesto": 4,
+        "naslov": "Another Love",
+        "sifra_umetnika": 367651,
+        "ime_umetnika": "Song Ha-ye"
+    },
+    {
+        "mesto": 5,
+        "naslov": "I&#039;m a little drunk (Prod. 2soo)",
+        "sifra_umetnika": 364963,
+        "ime_umetnika": "Lim Jae-hyun"
+    },
+    {
+        "mesto": 6,
+        "naslov": "Feel Special",
+        "sifra_umetnika": 364940,
+        "ime_umetnika": "TWICE"
+    },
+    {
+        "mesto": 7,
+        "naslov": "Workaholic",
+        "sifra_umetnika": 239348,
+        "ime_umetnika": "Bolbbalgan4 (Bolbbalgan Sa-chun-gi)"
+    },
+    {
+        "mesto": 8,
+        "naslov": "LOVE ME",
+        "sifra_umetnika": 364146,
+        "ime_umetnika": "NU&rsquo;EST"
+    },
+    {
+        "mesto": 9,
+        "naslov": "I Still love you a lot",
+        "sifra_umetnika": 373333,
+        "ime_umetnika": "Jeon Sang-keun "
+    },
+    {
+        "mesto": 10,
+        "naslov": "SOSO",
+        "sifra_umetnika": 355065,
+        "ime_umetnika": "WINNER"
+    },
+    {
+        "mesto": 1,
+        "naslov": "Spark",
+        "sifra_umetnika": 361999,
+        "ime_umetnika": "Taeyeon"
+    },
+    {
+        "mesto": 2,
+        "naslov": "Follow",
+        "sifra_umetnika": 351688,
+        "ime_umetnika": "Monsta X"
+    },
+    {
+        "mesto": 3,
+        "naslov": "How can I love the heartbreak, you`re the one I love",
+        "sifra_umetnika": 372941,
+        "ime_umetnika": "AKMU"
+    },
+    {
+        "mesto": 4,
+        "naslov": "Another Love",
+        "sifra_umetnika": 367651,
+        "ime_umetnika": "Song Ha-ye"
+    },
+    {
+        "mesto": 5,
+        "naslov": "I&#039;m a little drunk (Prod. 2soo)",
+        "sifra_umetnika": 364963,
+        "ime_umetnika": "Lim Jae-hyun"
+    },
+    {
+        "mesto": 6,
+        "naslov": "Feel Special",
+        "sifra_umetnika": 364940,
+        "ime_umetnika": "TWICE"
+    },
+    {
+        "mesto": 7,
+        "naslov": "Workaholic",
+        "sifra_umetnika": 239348,
+        "ime_umetnika": "Bolbbalgan4 (Bolbbalgan Sa-chun-gi)"
+    },
+    {
+        "mesto": 8,
+        "naslov": "LOVE ME",
+        "sifra_umetnika": 364146,
+        "ime_umetnika": "NU&rsquo;EST"
+    },
+    {
+        "mesto": 9,
+        "naslov": "I Still love you a lot",
+        "sifra_umetnika": 373333,
+        "ime_umetnika": "Jeon Sang-keun "
+    },
+    {
+        "mesto": 10,
+        "naslov": "SOSO",
+        "sifra_umetnika": 355065,
+        "ime_umetnika": "WINNER"
+    },
+    {
+        "mesto": 1,
+        "naslov": "Spark",
+        "sifra_umetnika": 361999,
+        "ime_umetnika": "Taeyeon"
+    },
+    {
+        "mesto": 2,
+        "naslov": "Follow",
+        "sifra_umetnika": 351688,
+        "ime_umetnika": "Monsta X"
+    },
+    {
+        "mesto": 3,
+        "naslov": "How can I love the heartbreak, you`re the one I love",
+        "sifra_umetnika": 372941,
+        "ime_umetnika": "AKMU"
+    },
+    {
+        "mesto": 4,
+        "naslov": "Another Love",
+        "sifra_umetnika": 367651,
+        "ime_umetnika": "Song Ha-ye"
+    },
+    {
+        "mesto": 5,
+        "naslov": "I&#039;m a little drunk (Prod. 2soo)",
+        "sifra_umetnika": 364963,
+        "ime_umetnika": "Lim Jae-hyun"
+    },
+    {
+        "mesto": 6,
+        "naslov": "Feel Special",
+        "sifra_umetnika": 364940,
+        "ime_umetnika": "TWICE"
+    },
+    {
+        "mesto": 7,
+        "naslov": "Workaholic",
+        "sifra_umetnika": 239348,
+        "ime_umetnika": "Bolbbalgan4 (Bolbbalgan Sa-chun-gi)"
+    },
+    {
+        "mesto": 8,
+        "naslov": "LOVE ME",
+        "sifra_umetnika": 364146,
+        "ime_umetnika": "NU&rsquo;EST"
+    },
+    {
+        "mesto": 9,
+        "naslov": "I Still love you a lot",
+        "sifra_umetnika": 373333,
+        "ime_umetnika": "Jeon Sang-keun "
+    },
+    {
+        "mesto": 10,
+        "naslov": "SOSO",
+        "sifra_umetnika": 355065,
+        "ime_umetnika": "WINNER"
+    },
+    {
+        "mesto": 1,
+        "naslov": "Spark",
+        "sifra_umetnika": 361999,
+        "ime_umetnika": "Taeyeon"
+    },
+    {
+        "mesto": 2,
+        "naslov": "Follow",
+        "sifra_umetnika": 351688,
+        "ime_umetnika": "Monsta X"
+    },
+    {
+        "mesto": 3,
+        "naslov": "How can I love the heartbreak, you`re the one I love",
+        "sifra_umetnika": 372941,
+        "ime_umetnika": "AKMU"
+    },
+    {
+        "mesto": 4,
+        "naslov": "Another Love",
+        "sifra_umetnika": 367651,
+        "ime_umetnika": "Song Ha-ye"
+    },
+    {
+        "mesto": 5,
+        "naslov": "I&#039;m a little drunk (Prod. 2soo)",
+        "sifra_umetnika": 364963,
+        "ime_umetnika": "Lim Jae-hyun"
+    },
+    {
+        "mesto": 6,
+        "naslov": "Feel Special",
+        "sifra_umetnika": 364940,
+        "ime_umetnika": "TWICE"
+    },
+    {
+        "mesto": 7,
+        "naslov": "Workaholic",
+        "sifra_umetnika": 239348,
+        "ime_umetnika": "Bolbbalgan4 (Bolbbalgan Sa-chun-gi)"
+    },
+    {
+        "mesto": 8,
+        "naslov": "LOVE ME",
+        "sifra_umetnika": 364146,
+        "ime_umetnika": "NU&rsquo;EST"
+    },
+    {
+        "mesto": 9,
+        "naslov": "I Still love you a lot",
+        "sifra_umetnika": 373333,
+        "ime_umetnika": "Jeon Sang-keun "
+    },
+    {
+        "mesto": 10,
+        "naslov": "SOSO",
+        "sifra_umetnika": 355065,
+        "ime_umetnika": "WINNER"
+    },
+    {
+        "mesto": 1,
+        "naslov": "Spark",
+        "sifra_umetnika": 361999,
+        "ime_umetnika": "Taeyeon"
+    },
+    {
+        "mesto": 2,
+        "naslov": "Follow",
+        "sifra_umetnika": 351688,
+        "ime_umetnika": "Monsta X"
+    },
+    {
+        "mesto": 3,
+        "naslov": "How can I love the heartbreak, you`re the one I love",
+        "sifra_umetnika": 372941,
+        "ime_umetnika": "AKMU"
+    },
+    {
+        "mesto": 4,
+        "naslov": "Another Love",
+        "sifra_umetnika": 367651,
+        "ime_umetnika": "Song Ha-ye"
+    },
+    {
+        "mesto": 5,
+        "naslov": "I&#039;m a little drunk (Prod. 2soo)",
+        "sifra_umetnika": 364963,
+        "ime_umetnika": "Lim Jae-hyun"
+    },
+    {
+        "mesto": 6,
+        "naslov": "Feel Special",
+        "sifra_umetnika": 364940,
+        "ime_umetnika": "TWICE"
+    },
+    {
+        "mesto": 7,
+        "naslov": "Workaholic",
+        "sifra_umetnika": 239348,
+        "ime_umetnika": "Bolbbalgan4 (Bolbbalgan Sa-chun-gi)"
+    },
+    {
+        "mesto": 8,
+        "naslov": "LOVE ME",
+        "sifra_umetnika": 364146,
+        "ime_umetnika": "NU&rsquo;EST"
+    },
+    {
+        "mesto": 9,
+        "naslov": "I Still love you a lot",
+        "sifra_umetnika": 373333,
+        "ime_umetnika": "Jeon Sang-keun "
+    },
+    {
+        "mesto": 10,
+        "naslov": "SOSO",
+        "sifra_umetnika": 355065,
+        "ime_umetnika": "WINNER"
+    },
+    {
+        "mesto": 1,
+        "naslov": "Spark",
+        "sifra_umetnika": 361999,
+        "ime_umetnika": "Taeyeon"
+    },
+    {
+        "mesto": 2,
+        "naslov": "Follow",
+        "sifra_umetnika": 351688,
+        "ime_umetnika": "Monsta X"
+    },
+    {
+        "mesto": 3,
+        "naslov": "How can I love the heartbreak, you`re the one I love",
+        "sifra_umetnika": 372941,
+        "ime_umetnika": "AKMU"
+    },
+    {
+        "mesto": 4,
+        "naslov": "Another Love",
+        "sifra_umetnika": 367651,
+        "ime_umetnika": "Song Ha-ye"
+    },
+    {
+        "mesto": 5,
+        "naslov": "I&#039;m a little drunk (Prod. 2soo)",
+        "sifra_umetnika": 364963,
+        "ime_umetnika": "Lim Jae-hyun"
+    },
+    {
+        "mesto": 6,
+        "naslov": "Feel Special",
+        "sifra_umetnika": 364940,
+        "ime_umetnika": "TWICE"
+    },
+    {
+        "mesto": 7,
+        "naslov": "Workaholic",
+        "sifra_umetnika": 239348,
+        "ime_umetnika": "Bolbbalgan4 (Bolbbalgan Sa-chun-gi)"
+    },
+    {
+        "mesto": 8,
+        "naslov": "LOVE ME",
+        "sifra_umetnika": 364146,
+        "ime_umetnika": "NU&rsquo;EST"
+    },
+    {
+        "mesto": 9,
+        "naslov": "I Still love you a lot",
+        "sifra_umetnika": 373333,
+        "ime_umetnika": "Jeon Sang-keun "
+    },
+    {
+        "mesto": 10,
+        "naslov": "SOSO",
+        "sifra_umetnika": 355065,
+        "ime_umetnika": "WINNER"
+    },
+    {
+        "mesto": 1,
+        "naslov": "Spark",
+        "sifra_umetnika": 361999,
+        "ime_umetnika": "Taeyeon"
+    },
+    {
+        "mesto": 2,
+        "naslov": "Follow",
+        "sifra_umetnika": 351688,
+        "ime_umetnika": "Monsta X"
+    },
+    {
+        "mesto": 3,
+        "naslov": "How can I love the heartbreak, you`re the one I love",
+        "sifra_umetnika": 372941,
+        "ime_umetnika": "AKMU"
+    },
+    {
+        "mesto": 4,
+        "naslov": "Another Love",
+        "sifra_umetnika": 367651,
+        "ime_umetnika": "Song Ha-ye"
+    },
+    {
+        "mesto": 5,
+        "naslov": "I&#039;m a little drunk (Prod. 2soo)",
+        "sifra_umetnika": 364963,
+        "ime_umetnika": "Lim Jae-hyun"
+    },
+    {
+        "mesto": 6,
+        "naslov": "Feel Special",
+        "sifra_umetnika": 364940,
+        "ime_umetnika": "TWICE"
+    },
+    {
+        "mesto": 7,
+        "naslov": "Workaholic",
+        "sifra_umetnika": 239348,
+        "ime_umetnika": "Bolbbalgan4 (Bolbbalgan Sa-chun-gi)"
+    },
+    {
+        "mesto": 8,
+        "naslov": "LOVE ME",
+        "sifra_umetnika": 364146,
+        "ime_umetnika": "NU&rsquo;EST"
+    },
+    {
+        "mesto": 9,
+        "naslov": "I Still love you a lot",
+        "sifra_umetnika": 373333,
+        "ime_umetnika": "Jeon Sang-keun "
+    },
+    {
+        "mesto": 10,
+        "naslov": "SOSO",
+        "sifra_umetnika": 355065,
+        "ime_umetnika": "WINNER"
+    },
+    {
+        "mesto": 1,
+        "naslov": "Spark",
+        "sifra_umetnika": 361999,
+        "ime_umetnika": "Taeyeon"
+    },
+    {
+        "mesto": 2,
+        "naslov": "Follow",
+        "sifra_umetnika": 351688,
+        "ime_umetnika": "Monsta X"
+    },
+    {
+        "mesto": 3,
+        "naslov": "How can I love the heartbreak, you`re the one I love",
+        "sifra_umetnika": 372941,
+        "ime_umetnika": "AKMU"
+    },
+    {
+        "mesto": 4,
+        "naslov": "Another Love",
+        "sifra_umetnika": 367651,
+        "ime_umetnika": "Song Ha-ye"
+    },
+    {
+        "mesto": 5,
+        "naslov": "I&#039;m a little drunk (Prod. 2soo)",
+        "sifra_umetnika": 364963,
+        "ime_umetnika": "Lim Jae-hyun"
+    },
+    {
+        "mesto": 6,
+        "naslov": "Feel Special",
+        "sifra_umetnika": 364940,
+        "ime_umetnika": "TWICE"
+    },
+    {
+        "mesto": 7,
+        "naslov": "Workaholic",
+        "sifra_umetnika": 239348,
+        "ime_umetnika": "Bolbbalgan4 (Bolbbalgan Sa-chun-gi)"
+    },
+    {
+        "mesto": 8,
+        "naslov": "LOVE ME",
+        "sifra_umetnika": 364146,
+        "ime_umetnika": "NU&rsquo;EST"
+    },
+    {
+        "mesto": 9,
+        "naslov": "I Still love you a lot",
+        "sifra_umetnika": 373333,
+        "ime_umetnika": "Jeon Sang-keun "
+    },
+    {
+        "mesto": 10,
+        "naslov": "SOSO",
+        "sifra_umetnika": 355065,
+        "ime_umetnika": "WINNER"
+    },
+    {
+        "mesto": 1,
+        "naslov": "Spark",
+        "sifra_umetnika": 361999,
+        "ime_umetnika": "Taeyeon"
+    },
+    {
+        "mesto": 2,
+        "naslov": "Follow",
+        "sifra_umetnika": 351688,
+        "ime_umetnika": "Monsta X"
+    },
+    {
+        "mesto": 3,
+        "naslov": "How can I love the heartbreak, you`re the one I love",
+        "sifra_umetnika": 372941,
+        "ime_umetnika": "AKMU"
+    },
+    {
+        "mesto": 4,
+        "naslov": "Another Love",
+        "sifra_umetnika": 367651,
+        "ime_umetnika": "Song Ha-ye"
+    },
+    {
+        "mesto": 5,
+        "naslov": "I&#039;m a little drunk (Prod. 2soo)",
+        "sifra_umetnika": 364963,
+        "ime_umetnika": "Lim Jae-hyun"
+    },
+    {
+        "mesto": 6,
+        "naslov": "Feel Special",
+        "sifra_umetnika": 364940,
+        "ime_umetnika": "TWICE"
+    },
+    {
+        "mesto": 7,
+        "naslov": "Workaholic",
+        "sifra_umetnika": 239348,
+        "ime_umetnika": "Bolbbalgan4 (Bolbbalgan Sa-chun-gi)"
+    },
+    {
+        "mesto": 8,
+        "naslov": "LOVE ME",
+        "sifra_umetnika": 364146,
+        "ime_umetnika": "NU&rsquo;EST"
+    },
+    {
+        "mesto": 9,
+        "naslov": "I Still love you a lot",
+        "sifra_umetnika": 373333,
+        "ime_umetnika": "Jeon Sang-keun "
+    },
+    {
+        "mesto": 10,
+        "naslov": "SOSO",
+        "sifra_umetnika": 355065,
+        "ime_umetnika": "WINNER"
+    }
+]
