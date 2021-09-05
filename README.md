@@ -10,7 +10,10 @@ Projektna naloga se bo ukvarjala z analizo spletne glasbene lestvice [radia KBS]
 * zaporedno število tedna, ko se pesem nahaja na lestvici, ter sprememba glede na prejšnji teden
 * ime izvajalca in njegov tip (skupina oz. solo pevec/ka)
 * v primeru, ko je izvajalec skupina, tudi število članov
-
+* agencija, pri kateri se nahaja izvajalec
+* datum debitiranja
+* biografija
+* diskografija
 
 ## Hipoteze
 
