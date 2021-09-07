@@ -41,7 +41,7 @@ vzorec_linka_in_sifre = re.compile(
 )
 
 vzorec_zalozba = re.compile(
-    r'Labels:.*?</strong>'
+    r'(Labels|Record Label):.*?</strong>'
     r'(?P<zalozba>.+?)'
     r'(&nbsp;)?</p>'
 )
@@ -61,6 +61,12 @@ vzorec_clani = re.compile(
     r'Members:.*?</strong>'
     r'(?P<clani>.+?)'
     r'(&nbsp;)?</p>',
+)
+
+vzorec_clani_za_x1_ker_so_tako_posebni = re.compile(
+    r'content="Members:&nbsp;'
+    r'(?P<clani>.+?)'
+    r'  ..."',
 )
 
 vzorec_biografija1 = re.compile(
@@ -108,7 +114,8 @@ def izlusci_podatke_pesmi(blok):
         pesem['sifra_umetnika'] = None
         pesem['link_umetnika'] = None
     pesem['mesto'] = int(pesem['mesto'])
-    pesem['ime_umetnika'] = pesem['ime_umetnika'].strip()
+    pesem['ime_umetnika'] = pocisti_tekst(pesem['ime_umetnika'])
+    pesem['naslov'] = pocisti_tekst(pesem['naslov'])
     return pesem
 
 def poberi_in_izlusci_umetnika(ime, url):
@@ -120,25 +127,34 @@ def poberi_in_izlusci_umetnika(ime, url):
 
     zalozbe = vzorec_zalozba.search(vsebina)
     if zalozbe:
-        umetnik['zalozbe'] = zalozbe['zalozba'].split(', ')
+        zalozbe_za_precistiti = zalozbe['zalozba'].split(', ')
+        preciscene_zalozbe = []
+        for zalozba in zalozbe_za_precistiti:
+            zalozba = neumne_izjeme(zalozba)
+            cista_zalozba = pocisti_tekst(zalozba)
+            preciscene_zalozbe.append(cista_zalozba)
+        umetnik['zalozbe'] = preciscene_zalozbe
+        if ime == 'SHAUN':
+            umetnik['zalozbe'] = ['Happy Robot Record']
     else:
         umetnik['zalozbe'] = None
-
-    if ime == 'Jeong seung-hwan':
-        print("bleh")
 
     debut = vzorec_debut1.search(vsebina)
     if not debut:
         debut = vzorec_debut2.search(vsebina)
     if debut:
         debut = int(debut['debut'])
+        if debut == 1808:
+            debut = 2013
         umetnik['debut'] = debut
     else:
         umetnik['debut'] = None
 
     clani = vzorec_clani.search(vsebina)
+    if ime == 'X1':
+        clani = vzorec_clani_za_x1_ker_so_tako_posebni.search(vsebina)
     if clani:
-        umetnik['clani'] = clani['clani'].split(', ')
+        umetnik['clani'] = pocisti_tekst(clani['clani']).split(', ')
         umetnik['tip'] = SKUPINA
     else:
         umetnik['clani'] = None
@@ -151,17 +167,32 @@ def poberi_in_izlusci_umetnika(ime, url):
         biografija = vzorec_biografija3.search(vsebina)
     if biografija:
         biografija = biografija['biografija']
-        umetnik['biografija'] = obdelaj_biografijo(biografija)
+        umetnik['biografija'] = pocisti_tekst(biografija)
     else:
         umetnik['biografija'] = None
 
     return umetnik
 
-def obdelaj_biografijo(tekst):
+def neumne_izjeme(zalozba):
+    if 'KakaoM' in zalozba:
+        return 'KakaoM'
+    if 'Y-WHO Enterprise' in zalozba:
+        return 'Y-WHO Enterprise'
+    if 'Woollim' in zalozba:
+        return 'Woollim'
+    return zalozba
+
+def pocisti_tekst(tekst):
+    tekst = tekst.replace(r'<br />', '')
     tekst = tekst.replace(r'<br />', '')
     tekst = tekst.replace(r'</div>', '')
+    tekst = tekst.replace(r'</span>', '')
     tekst = tekst.replace('\n', ' ')
+    tekst = tekst.replace('&nbsp;', ' ')
+    tekst = tekst.replace('&amp;', ' ')
     tekst = tekst.strip()
+    if 'Entertainment' == tekst[-13:]:
+        tekst = tekst[:-13]
     return tekst
 
 
@@ -171,13 +202,13 @@ def zberi_podatke_umetnikov(pesmi):
 
     for pesem in pesmi:
         ime_umetnika = pesem.pop('ime_umetnika')
-        if ime_umetnika in obdelani_umetniki:
+        sifra_umetnika = pesem['sifra_umetnika']
+        if sifra_umetnika in obdelani_umetniki:
             pesem.pop('link_umetnika')
-        if ime_umetnika not in obdelani_umetniki:
+        if sifra_umetnika not in obdelani_umetniki:
             link_umetnika = pesem.pop('link_umetnika')
             if link_umetnika is None:
                 continue
-            sifra_umetnika = pesem['sifra_umetnika']
             umetnik = poberi_in_izlusci_umetnika(ime_umetnika, link_umetnika)
             zalozbe_umetnika = umetnik['zalozbe']
             debut = umetnik['debut']
@@ -189,13 +220,13 @@ def zberi_podatke_umetnikov(pesmi):
 
             if zalozbe_umetnika:
                 for zalozba in zalozbe_umetnika:
-                    zalozbe.append({'sifra_umetnika': sifra_umetnika, 'zalozba': zalozba})
+                    zalozbe.append({'sifra_umetnika': sifra_umetnika, 'zalozba': pocisti_tekst(zalozba)})
 
             if clani:
                 for clan in clani:
                     clani_skupin.append({'sifra_umetnika': sifra_umetnika, 'clan': clan})
 
-            obdelani_umetniki.add(ime_umetnika)
+            obdelani_umetniki.add(sifra_umetnika)
 
     return umetniki, clani_skupin, zalozbe
         
@@ -207,7 +238,7 @@ pesmi = []
 while trenutni_datum != KONCNI_DATUM:
     stevec = 0
     for pesem in poberi_tedensko_lestvico(trenutni_datum):
-        pesem['datum'] = trenutni_datum.strftime('%d. %m. %Y')
+        pesem['datum'] = trenutni_datum.strftime('%Y-%m-%d')
         pesmi.append(pesem)
         stevec += 1
         if stevec == 10: break
